@@ -1,16 +1,21 @@
 import clip
 from PIL import Image
-import utils
+from utils import utils
 import torch
 from Preprocessors.CsvPreprocessor import CsvPreprocessor
+import shutil
+
 
 class Inference:
-    def __init__(self, model_type, file, csv_file, image_column, device):
+    def __init__(self, folder_path, model_type, file, csv_file, image_column, device, logger):
         self.__model_type = model_type
         self.__file = file
         self.__device = device
         self.__preprocessor = None
         self.__model = None
+        self.__logger = logger
+        self.__images_label = None
+        self.__folder = folder_path
         self.__csv_preprocessor = CsvPreprocessor(csv_file, image_column)
 
     def get_file(self):
@@ -21,9 +26,6 @@ class Inference:
 
     def get_model_type(self):
         return self.__model_type
-
-    def preprocess_image(self, image_path):
-        pass
 
     def load_model(self):
         self.__model, self.__preprocessor = clip.load(self.__model_type, device=self.__device)
@@ -66,15 +68,19 @@ class Inference:
 
     def run(self):
         images = self.__csv_preprocessor()
-        images_label = list()
+        self.__images_label = list()
+        translator = utils.translate_labels(self.__file)
+        self.__logger.info('Creating label folders...')
+        utils.create_label_folders(self.__folder, utils.get_labels(self.__file))
 
         for image in images:
+            self.__logger.info('Running inference on image ' + image)
             probs = self.run_inference(image)
-            label = torch.argmax(probs, dim=0)
-            images_label.append(label)
-
-        return images_label
+            label = torch.argmax(torch.from_numpy(probs), dim=1)
+            self.__images_label.append(label.item())
+            self.__logger.info('Image got label ' + translator[label.item()])
+            shutil.move(image, self.__folder + '/' + translator[label.item()] + '/' + image.split('/')[-1])
 
     def __call__(self):
-
-        return self.run()
+        self.load_model()
+        self.run()

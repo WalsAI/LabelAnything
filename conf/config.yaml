@@ -1,0 +1,10 @@
+CLIP:
+    path_to_folder: '/Users/valentinserban/Downloads/archive-3/images'
+    csv_name: 'images.csv'
+    csv_column: 'Image_Path'
+    labels: '/Users/valentinserban/LabelAnything/image_labels.txt'
+    model_type: 'ViT-L/14@336px'
+    device: 'mps'
+    logger_name: 'clip'
+    file_handler: '/Users/valentinserban/LabelAnything/logs/clip.log'
+    output_folder: '/Users/valentinserban/Downloads/archive-3/labels'

@@ -1,0 +1,1616 @@
+2023-10-20 10:38:00,889 - clip - INFO - Preprocessing started...
+2023-10-20 10:38:00,928 - clip - INFO - All image paths have been written into a csv.
+2023-10-20 10:38:00,928 - clip - INFO - Preprocessing of the csv file started...
+2023-10-20 10:38:00,936 - clip - INFO - Preprocessing ended.
+2023-10-20 10:38:11,474 - clip - INFO - Creating label folders...
+2023-10-20 10:38:11,474 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0602.jpg
+2023-10-20 10:38:16,179 - clip - INFO - Image got label fruit
+2023-10-20 10:38:16,180 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0003.jpg
+2023-10-20 10:38:17,012 - clip - INFO - Image got label car
+2023-10-20 10:38:17,013 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0258.jpg
+2023-10-20 10:38:17,956 - clip - INFO - Image got label cat
+2023-10-20 10:38:17,956 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0092.jpg
+2023-10-20 10:38:18,877 - clip - INFO - Image got label flower
+2023-10-20 10:38:18,877 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0164.jpg
+2023-10-20 10:38:19,968 - clip - INFO - Image got label fruit
+2023-10-20 10:38:19,969 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0765.jpg
+2023-10-20 10:38:20,964 - clip - INFO - Image got label car
+2023-10-20 10:38:20,965 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0516.jpg
+2023-10-20 10:38:21,949 - clip - INFO - Image got label cat
+2023-10-20 10:38:21,949 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0334.jpg
+2023-10-20 10:38:22,901 - clip - INFO - Image got label motorbike
+2023-10-20 10:38:22,902 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0493.jpg
+2023-10-20 10:38:23,867 - clip - INFO - Image got label person
+2023-10-20 10:38:23,867 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0054.jpg
+2023-10-20 10:38:24,939 - clip - INFO - Image got label dog
+2023-10-20 10:38:24,940 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0270.jpg
+2023-10-20 10:38:25,935 - clip - INFO - Image got label cat
+2023-10-20 10:38:25,936 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0452.jpg
+2023-10-20 10:38:26,919 - clip - INFO - Image got label motorbike
+2023-10-20 10:38:26,920 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0446.jpg
+2023-10-20 10:38:27,828 - clip - INFO - Image got label motorbike
+2023-10-20 10:38:27,829 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0264.jpg
+2023-10-20 10:38:28,746 - clip - INFO - Image got label cat
+2023-10-20 10:38:28,746 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0487.jpg
+2023-10-20 10:38:29,701 - clip - INFO - Image got label person
+2023-10-20 10:38:29,701 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0759.jpg
+2023-10-20 10:38:30,762 - clip - INFO - Image got label car
+2023-10-20 10:38:30,763 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0158.jpg
+2023-10-20 10:38:31,800 - clip - INFO - Image got label fruit
+2023-10-20 10:38:31,800 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0040.jpg
+2023-10-20 10:38:32,847 - clip - INFO - Image got label dog
+2023-10-20 10:38:32,847 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0320.jpg
+2023-10-20 10:38:33,796 - clip - INFO - Image got label motorbike
+2023-10-20 10:38:33,796 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0502.jpg
+2023-10-20 10:38:34,844 - clip - INFO - Image got label cat
+2023-10-20 10:38:34,844 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0176.jpg
+2023-10-20 10:38:35,852 - clip - INFO - Image got label airplane
+2023-10-20 10:38:35,853 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0521.jpg
+2023-10-20 10:38:36,852 - clip - INFO - Image got label flower
+2023-10-20 10:38:36,852 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0108.jpg
+2023-10-20 10:38:37,898 - clip - INFO - Image got label person
+2023-10-20 10:38:37,898 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0247.jpg
+2023-10-20 10:38:38,895 - clip - INFO - Image got label flower
+2023-10-20 10:38:38,895 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0610.jpg
+2023-10-20 10:38:39,959 - clip - INFO - Image got label airplane
+2023-10-20 10:38:39,959 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0604.jpg
+2023-10-20 10:38:40,987 - clip - INFO - Image got label airplane
+2023-10-20 10:38:40,988 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0253.jpg
+2023-10-20 10:38:41,943 - clip - INFO - Image got label flower
+2023-10-20 10:38:41,943 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0535.jpg
+2023-10-20 10:38:42,899 - clip - INFO - Image got label flower
+2023-10-20 10:38:42,899 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0162.jpg
+2023-10-20 10:38:43,823 - clip - INFO - Image got label airplane
+2023-10-20 10:38:43,824 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0099.jpg
+2023-10-20 10:38:44,787 - clip - INFO - Image got label cat
+2023-10-20 10:38:44,788 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0134.jpg
+2023-10-20 10:38:45,770 - clip - INFO - Image got label person
+2023-10-20 10:38:45,771 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0693.jpg
+2023-10-20 10:38:46,687 - clip - INFO - Image got label motorbike
+2023-10-20 10:38:46,688 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0652.jpg
+2023-10-20 10:38:47,650 - clip - INFO - Image got label person
+2023-10-20 10:38:47,650 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0295.jpg
+2023-10-20 10:38:48,573 - clip - INFO - Image got label dog
+2023-10-20 10:38:48,573 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0646.jpg
+2023-10-20 10:38:49,618 - clip - INFO - Image got label person
+2023-10-20 10:38:49,618 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0281.jpg
+2023-10-20 10:38:50,606 - clip - INFO - Image got label dog
+2023-10-20 10:38:50,607 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0399.jpg
+2023-10-20 10:38:51,536 - clip - INFO - Image got label fruit
+2023-10-20 10:38:51,536 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0598.jpg
+2023-10-20 10:38:52,473 - clip - INFO - Image got label car
+2023-10-20 10:38:52,473 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0638.jpg
+2023-10-20 10:38:53,383 - clip - INFO - Image got label airplane
+2023-10-20 10:38:53,384 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0687.jpg
+2023-10-20 10:38:54,635 - clip - INFO - Image got label motorbike
+2023-10-20 10:38:54,636 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0120.jpg
+2023-10-20 10:38:55,668 - clip - INFO - Image got label person
+2023-10-20 10:38:55,668 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0509.jpg
+2023-10-20 10:38:56,737 - clip - INFO - Image got label flower
+2023-10-20 10:38:56,737 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0215.jpg
+2023-10-20 10:38:57,680 - clip - INFO - Image got label car
+2023-10-20 10:38:57,681 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0414.jpg
+2023-10-20 10:38:58,648 - clip - INFO - Image got label fruit
+2023-10-20 10:38:58,648 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0728.jpg
+2023-10-20 10:38:59,615 - clip - INFO - Image got label cat
+2023-10-20 10:38:59,616 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0875.jpg
+2023-10-20 10:39:00,601 - clip - INFO - Image got label person
+2023-10-20 10:39:00,602 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0573.jpg
+2023-10-20 10:39:01,530 - clip - INFO - Image got label car
+2023-10-20 10:39:01,531 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0372.jpg
+2023-10-20 10:39:02,519 - clip - INFO - Image got label fruit
+2023-10-20 10:39:02,520 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0284.jpg
+2023-10-20 10:39:03,485 - clip - INFO - Image got label flower
+2023-10-20 10:39:03,485 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0861.jpg
+2023-10-20 10:39:04,475 - clip - INFO - Image got label person
+2023-10-20 10:39:04,476 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0567.jpg
+2023-10-20 10:39:05,403 - clip - INFO - Image got label car
+2023-10-20 10:39:05,404 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0366.jpg
+2023-10-20 10:39:06,413 - clip - INFO - Image got label fruit
+2023-10-20 10:39:06,413 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0290.jpg
+2023-10-20 10:39:07,389 - clip - INFO - Image got label flower
+2023-10-20 10:39:07,389 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0678.jpg
+2023-10-20 10:39:08,385 - clip - INFO - Image got label motorbike
+2023-10-20 10:39:08,386 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0201.jpg
+2023-10-20 10:39:09,328 - clip - INFO - Image got label car
+2023-10-20 10:39:09,328 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0400.jpg
+2023-10-20 10:39:10,311 - clip - INFO - Image got label fruit
+2023-10-20 10:39:10,311 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0518.jpg
+2023-10-20 10:39:11,271 - clip - INFO - Image got label dog
+2023-10-20 10:39:11,272 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0189.jpg
+2023-10-20 10:39:12,298 - clip - INFO - Image got label airplane
+2023-10-20 10:39:12,299 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0650.jpg
+2023-10-20 10:39:13,257 - clip - INFO - Image got label motorbike
+2023-10-20 10:39:13,258 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0072.jpg
+2023-10-20 10:39:14,237 - clip - INFO - Image got label cat
+2023-10-20 10:39:14,237 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0428.jpg
+2023-10-20 10:39:15,185 - clip - INFO - Image got label fruit
+2023-10-20 10:39:15,185 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0229.jpg
+2023-10-20 10:39:16,150 - clip - INFO - Image got label car
+2023-10-20 10:39:16,151 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0530.jpg
+2023-10-20 10:39:17,143 - clip - INFO - Image got label dog
+2023-10-20 10:39:17,144 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0849.jpg
+2023-10-20 10:39:18,157 - clip - INFO - Image got label person
+2023-10-20 10:39:18,157 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0256.jpg
+2023-10-20 10:39:19,077 - clip - INFO - Image got label dog
+2023-10-20 10:39:19,078 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0691.jpg
+2023-10-20 10:39:20,099 - clip - INFO - Image got label person
+2023-10-20 10:39:20,100 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0136.jpg
+2023-10-20 10:39:21,048 - clip - INFO - Image got label motorbike
+2023-10-20 10:39:21,049 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0714.jpg
+2023-10-20 10:39:21,993 - clip - INFO - Image got label cat
+2023-10-20 10:39:21,994 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0700.jpg
+2023-10-20 10:39:22,979 - clip - INFO - Image got label cat
+2023-10-20 10:39:22,980 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0122.jpg
+2023-10-20 10:39:23,924 - clip - INFO - Image got label motorbike
+2023-10-20 10:39:23,925 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0242.jpg
+2023-10-20 10:39:24,893 - clip - INFO - Image got label dog
+2023-10-20 10:39:24,894 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0685.jpg
+2023-10-20 10:39:25,824 - clip - INFO - Image got label person
+2023-10-20 10:39:25,825 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0524.jpg
+2023-10-20 10:39:26,829 - clip - INFO - Image got label dog
+2023-10-20 10:39:26,830 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0066.jpg
+2023-10-20 10:39:27,753 - clip - INFO - Image got label cat
+2023-10-20 10:39:27,753 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0644.jpg
+2023-10-20 10:39:28,707 - clip - INFO - Image got label motorbike
+2023-10-20 10:39:28,707 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0002.jpg
+2023-10-20 10:39:29,666 - clip - INFO - Image got label airplane
+2023-10-20 10:39:29,667 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0455.jpg
+2023-10-20 10:39:30,613 - clip - INFO - Image got label flower
+2023-10-20 10:39:30,614 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0333.jpg
+2023-10-20 10:39:31,614 - clip - INFO - Image got label flower
+2023-10-20 10:39:31,615 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0847.jpg
+2023-10-20 10:39:32,588 - clip - INFO - Image got label cat
+2023-10-20 10:39:32,589 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0853.jpg
+2023-10-20 10:39:33,552 - clip - INFO - Image got label cat
+2023-10-20 10:39:33,552 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0327.jpg
+2023-10-20 10:39:34,518 - clip - INFO - Image got label cat
+2023-10-20 10:39:34,519 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0441.jpg
+2023-10-20 10:39:35,472 - clip - INFO - Image got label fruit
+2023-10-20 10:39:35,473 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0068.jpg
+2023-10-20 10:39:36,441 - clip - INFO - Image got label person
+2023-10-20 10:39:36,442 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0016.jpg
+2023-10-20 10:39:37,398 - clip - INFO - Image got label airplane
+2023-10-20 10:39:37,399 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0040.jpg
+2023-10-20 10:39:38,330 - clip - INFO - Image got label person
+2023-10-20 10:39:38,331 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0469.jpg
+2023-10-20 10:39:39,291 - clip - INFO - Image got label fruit
+2023-10-20 10:39:39,291 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0487.jpg
+2023-10-20 10:39:40,282 - clip - INFO - Image got label dog
+2023-10-20 10:39:40,283 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0081.jpg
+2023-10-20 10:39:41,222 - clip - INFO - Image got label motorbike
+2023-10-20 10:39:41,223 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0726.jpg
+2023-10-20 10:39:42,171 - clip - INFO - Image got label person
+2023-10-20 10:39:42,172 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0732.jpg
+2023-10-20 10:39:43,117 - clip - INFO - Image got label person
+2023-10-20 10:39:43,117 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0095.jpg
+2023-10-20 10:39:44,112 - clip - INFO - Image got label motorbike
+2023-10-20 10:39:44,113 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0054.jpg
+2023-10-20 10:39:45,043 - clip - INFO - Image got label person
+2023-10-20 10:39:45,044 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0493.jpg
+2023-10-20 10:39:45,991 - clip - INFO - Image got label dog
+2023-10-20 10:39:45,992 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0478.jpg
+2023-10-20 10:39:46,934 - clip - INFO - Image got label dog
+2023-10-20 10:39:46,934 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0361.jpg
+2023-10-20 10:39:47,893 - clip - INFO - Image got label car
+2023-10-20 10:39:47,894 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0560.jpg
+2023-10-20 10:39:48,841 - clip - INFO - Image got label fruit
+2023-10-20 10:39:48,841 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0496.jpg
+2023-10-20 10:39:49,791 - clip - INFO - Image got label flower
+2023-10-20 10:39:49,791 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0718.jpg
+2023-10-20 10:39:50,761 - clip - INFO - Image got label motorbike
+2023-10-20 10:39:50,762 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0884.jpg
+2023-10-20 10:39:51,701 - clip - INFO - Image got label cat
+2023-10-20 10:39:51,703 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0407.jpg
+2023-10-20 10:39:52,660 - clip - INFO - Image got label car
+2023-10-20 10:39:52,661 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0206.jpg
+2023-10-20 10:39:53,637 - clip - INFO - Image got label fruit
+2023-10-20 10:39:53,638 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0901.jpg
+2023-10-20 10:39:54,599 - clip - INFO - Image got label person
+2023-10-20 10:39:54,600 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0413.jpg
+2023-10-20 10:39:55,547 - clip - INFO - Image got label car
+2023-10-20 10:39:55,548 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0212.jpg
+2023-10-20 10:39:56,496 - clip - INFO - Image got label fruit
+2023-10-20 10:39:56,496 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0915.jpg
+2023-10-20 10:39:57,443 - clip - INFO - Image got label person
+2023-10-20 10:39:57,445 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0648.jpg
+2023-10-20 10:39:58,419 - clip - INFO - Image got label cat
+2023-10-20 10:39:58,420 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0375.jpg
+2023-10-20 10:39:59,356 - clip - INFO - Image got label car
+2023-10-20 10:39:59,356 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0574.jpg
+2023-10-20 10:40:00,302 - clip - INFO - Image got label person
+2023-10-20 10:40:00,302 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0482.jpg
+2023-10-20 10:40:01,284 - clip - INFO - Image got label flower
+2023-10-20 10:40:01,285 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0106.jpg
+2023-10-20 10:40:02,274 - clip - INFO - Image got label cat
+2023-10-20 10:40:02,274 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0724.jpg
+2023-10-20 10:40:03,295 - clip - INFO - Image got label motorbike
+2023-10-20 10:40:03,295 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0444.jpg
+2023-10-20 10:40:04,229 - clip - INFO - Image got label dog
+2023-10-20 10:40:04,230 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0083.jpg
+2023-10-20 10:40:05,234 - clip - INFO - Image got label person
+2023-10-20 10:40:05,235 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0322.jpg
+2023-10-20 10:40:06,218 - clip - INFO - Image got label dog
+2023-10-20 10:40:06,219 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0660.jpg
+2023-10-20 10:40:07,170 - clip - INFO - Image got label cat
+2023-10-20 10:40:07,171 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0042.jpg
+2023-10-20 10:40:08,104 - clip - INFO - Image got label motorbike
+2023-10-20 10:40:08,104 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0056.jpg
+2023-10-20 10:40:09,087 - clip - INFO - Image got label motorbike
+2023-10-20 10:40:09,087 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0674.jpg
+2023-10-20 10:40:10,059 - clip - INFO - Image got label cat
+2023-10-20 10:40:10,060 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0929.jpg
+2023-10-20 10:40:11,032 - clip - INFO - Image got label person
+2023-10-20 10:40:11,034 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0336.jpg
+2023-10-20 10:40:12,002 - clip - INFO - Image got label dog
+2023-10-20 10:40:12,003 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0450.jpg
+2023-10-20 10:40:12,988 - clip - INFO - Image got label dog
+2023-10-20 10:40:12,989 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0548.jpg
+2023-10-20 10:40:13,950 - clip - INFO - Image got label fruit
+2023-10-20 10:40:13,951 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0349.jpg
+2023-10-20 10:40:14,893 - clip - INFO - Image got label car
+2023-10-20 10:40:14,894 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0097.jpg
+2023-10-20 10:40:15,855 - clip - INFO - Image got label dog
+2023-10-20 10:40:15,856 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0730.jpg
+2023-10-20 10:40:16,803 - clip - INFO - Image got label motorbike
+2023-10-20 10:40:16,804 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0112.jpg
+2023-10-20 10:40:17,751 - clip - INFO - Image got label cat
+2023-10-20 10:40:17,752 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0566.jpg
+2023-10-20 10:40:18,734 - clip - INFO - Image got label airplane
+2023-10-20 10:40:18,735 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0518.jpg
+2023-10-20 10:40:19,680 - clip - INFO - Image got label person
+2023-10-20 10:40:19,681 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0131.jpg
+2023-10-20 10:40:20,614 - clip - INFO - Image got label flower
+2023-10-20 10:40:20,615 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0979.jpg
+2023-10-20 10:40:21,614 - clip - INFO - Image got label person
+2023-10-20 10:40:21,614 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0657.jpg
+2023-10-20 10:40:22,551 - clip - INFO - Image got label flower
+2023-10-20 10:40:22,552 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0200.jpg
+2023-10-20 10:40:23,510 - clip - INFO - Image got label airplane
+2023-10-20 10:40:23,511 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0214.jpg
+2023-10-20 10:40:24,447 - clip - INFO - Image got label airplane
+2023-10-20 10:40:24,448 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0643.jpg
+2023-10-20 10:40:25,436 - clip - INFO - Image got label flower
+2023-10-20 10:40:25,437 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0125.jpg
+2023-10-20 10:40:26,395 - clip - INFO - Image got label flower
+2023-10-20 10:40:26,395 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0572.jpg
+2023-10-20 10:40:27,362 - clip - INFO - Image got label airplane
+2023-10-20 10:40:27,363 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0489.jpg
+2023-10-20 10:40:28,316 - clip - INFO - Image got label cat
+2023-10-20 10:40:28,317 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0524.jpg
+2023-10-20 10:40:29,256 - clip - INFO - Image got label person
+2023-10-20 10:40:29,256 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0822.jpg
+2023-10-20 10:40:30,217 - clip - INFO - Image got label car
+2023-10-20 10:40:30,219 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0283.jpg
+2023-10-20 10:40:31,248 - clip - INFO - Image got label motorbike
+2023-10-20 10:40:31,249 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0685.jpg
+2023-10-20 10:40:32,161 - clip - INFO - Image got label dog
+2023-10-20 10:40:32,162 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0945.jpg
+2023-10-20 10:40:33,140 - clip - INFO - Image got label fruit
+2023-10-20 10:40:33,141 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0242.jpg
+2023-10-20 10:40:34,080 - clip - INFO - Image got label person
+2023-10-20 10:40:34,081 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0188.jpg
+2023-10-20 10:40:35,082 - clip - INFO - Image got label car
+2023-10-20 10:40:35,083 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0789.jpg
+2023-10-20 10:40:36,037 - clip - INFO - Image got label fruit
+2023-10-20 10:40:36,037 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0691.jpg
+2023-10-20 10:40:36,979 - clip - INFO - Image got label dog
+2023-10-20 10:40:36,980 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0951.jpg
+2023-10-20 10:40:37,941 - clip - INFO - Image got label fruit
+2023-10-20 10:40:37,942 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0256.jpg
+2023-10-20 10:40:38,935 - clip - INFO - Image got label person
+2023-10-20 10:40:38,935 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0228.jpg
+2023-10-20 10:40:39,843 - clip - INFO - Image got label airplane
+2023-10-20 10:40:39,844 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0297.jpg
+2023-10-20 10:40:40,862 - clip - INFO - Image got label motorbike
+2023-10-20 10:40:40,863 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0119.jpg
+2023-10-20 10:40:41,847 - clip - INFO - Image got label flower
+2023-10-20 10:40:41,847 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0530.jpg
+2023-10-20 10:40:42,826 - clip - INFO - Image got label person
+2023-10-20 10:40:42,827 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0836.jpg
+2023-10-20 10:40:43,764 - clip - INFO - Image got label car
+2023-10-20 10:40:43,765 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0004.jpg
+2023-10-20 10:40:44,731 - clip - INFO - Image got label fruit
+2023-10-20 10:40:44,731 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0605.jpg
+2023-10-20 10:40:45,696 - clip - INFO - Image got label car
+2023-10-20 10:40:45,697 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0338.jpg
+2023-10-20 10:40:46,624 - clip - INFO - Image got label cat
+2023-10-20 10:40:46,624 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0694.jpg
+2023-10-20 10:40:47,634 - clip - INFO - Image got label flower
+2023-10-20 10:40:47,635 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0762.jpg
+2023-10-20 10:40:48,565 - clip - INFO - Image got label fruit
+2023-10-20 10:40:48,566 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0163.jpg
+2023-10-20 10:40:49,554 - clip - INFO - Image got label car
+2023-10-20 10:40:49,554 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0680.jpg
+2023-10-20 10:40:50,516 - clip - INFO - Image got label flower
+2023-10-20 10:40:50,517 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0776.jpg
+2023-10-20 10:40:51,463 - clip - INFO - Image got label fruit
+2023-10-20 10:40:51,464 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0177.jpg
+2023-10-20 10:40:52,399 - clip - INFO - Image got label car
+2023-10-20 10:40:52,400 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0268.jpg
+2023-10-20 10:40:53,378 - clip - INFO - Image got label motorbike
+2023-10-20 10:40:53,379 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0108.jpg
+2023-10-20 10:40:54,316 - clip - INFO - Image got label dog
+2023-10-20 10:40:54,317 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0010.jpg
+2023-10-20 10:40:55,286 - clip - INFO - Image got label fruit
+2023-10-20 10:40:55,287 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0611.jpg
+2023-10-20 10:40:56,228 - clip - INFO - Image got label car
+2023-10-20 10:40:56,229 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0599.jpg
+2023-10-20 10:40:57,199 - clip - INFO - Image got label airplane
+2023-10-20 10:40:57,199 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0240.jpg
+2023-10-20 10:40:58,177 - clip - INFO - Image got label motorbike
+2023-10-20 10:40:58,177 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0462.jpg
+2023-10-20 10:40:59,256 - clip - INFO - Image got label cat
+2023-10-20 10:40:59,257 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0120.jpg
+2023-10-20 10:41:00,277 - clip - INFO - Image got label dog
+2023-10-20 10:41:00,277 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0639.jpg
+2023-10-20 10:41:01,451 - clip - INFO - Image got label car
+2023-10-20 10:41:01,458 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0038.jpg
+2023-10-20 10:41:02,805 - clip - INFO - Image got label fruit
+2023-10-20 10:41:02,807 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0986.jpg
+2023-10-20 10:41:03,957 - clip - INFO - Image got label fruit
+2023-10-20 10:41:03,958 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0281.jpg
+2023-10-20 10:41:05,014 - clip - INFO - Image got label person
+2023-10-20 10:41:05,015 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0646.jpg
+2023-10-20 10:41:06,025 - clip - INFO - Image got label dog
+2023-10-20 10:41:06,025 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0526.jpg
+2023-10-20 10:41:07,066 - clip - INFO - Image got label motorbike
+2023-10-20 10:41:07,067 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0304.jpg
+2023-10-20 10:41:08,086 - clip - INFO - Image got label cat
+2023-10-20 10:41:08,087 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0310.jpg
+2023-10-20 10:41:09,145 - clip - INFO - Image got label cat
+2023-10-20 10:41:09,163 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0532.jpg
+2023-10-20 10:41:10,473 - clip - INFO - Image got label motorbike
+2023-10-20 10:41:10,475 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0992.jpg
+2023-10-20 10:41:11,589 - clip - INFO - Image got label fruit
+2023-10-20 10:41:11,590 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0295.jpg
+2023-10-20 10:41:12,810 - clip - INFO - Image got label person
+2023-10-20 10:41:12,811 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0652.jpg
+2023-10-20 10:41:13,888 - clip - INFO - Image got label dog
+2023-10-20 10:41:13,889 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0134.jpg
+2023-10-20 10:41:14,922 - clip - INFO - Image got label dog
+2023-10-20 10:41:14,922 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0476.jpg
+2023-10-20 10:41:15,965 - clip - INFO - Image got label cat
+2023-10-20 10:41:15,965 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0254.jpg
+2023-10-20 10:41:17,047 - clip - INFO - Image got label motorbike
+2023-10-20 10:41:17,048 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0653.jpg
+2023-10-20 10:41:18,053 - clip - INFO - Image got label dog
+2023-10-20 10:41:18,054 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0294.jpg
+2023-10-20 10:41:19,041 - clip - INFO - Image got label person
+2023-10-20 10:41:19,042 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0993.jpg
+2023-10-20 10:41:20,051 - clip - INFO - Image got label fruit
+2023-10-20 10:41:20,051 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0311.jpg
+2023-10-20 10:41:21,019 - clip - INFO - Image got label cat
+2023-10-20 10:41:21,020 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0533.jpg
+2023-10-20 10:41:22,038 - clip - INFO - Image got label motorbike
+2023-10-20 10:41:22,039 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0477.jpg
+2023-10-20 10:41:23,027 - clip - INFO - Image got label cat
+2023-10-20 10:41:23,028 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0255.jpg
+2023-10-20 10:41:24,014 - clip - INFO - Image got label motorbike
+2023-10-20 10:41:24,015 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0135.jpg
+2023-10-20 10:41:24,989 - clip - INFO - Image got label dog
+2023-10-20 10:41:24,989 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0039.jpg
+2023-10-20 10:41:25,994 - clip - INFO - Image got label fruit
+2023-10-20 10:41:25,995 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0638.jpg
+2023-10-20 10:41:27,043 - clip - INFO - Image got label car
+2023-10-20 10:41:27,044 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0121.jpg
+2023-10-20 10:41:28,038 - clip - INFO - Image got label dog
+2023-10-20 10:41:28,039 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0241.jpg
+2023-10-20 10:41:29,020 - clip - INFO - Image got label motorbike
+2023-10-20 10:41:29,021 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0598.jpg
+2023-10-20 10:41:29,989 - clip - INFO - Image got label airplane
+2023-10-20 10:41:29,990 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0463.jpg
+2023-10-20 10:41:31,034 - clip - INFO - Image got label cat
+2023-10-20 10:41:31,035 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0527.jpg
+2023-10-20 10:41:32,046 - clip - INFO - Image got label motorbike
+2023-10-20 10:41:32,046 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0305.jpg
+2023-10-20 10:41:32,995 - clip - INFO - Image got label cat
+2023-10-20 10:41:32,995 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0647.jpg
+2023-10-20 10:41:33,949 - clip - INFO - Image got label dog
+2023-10-20 10:41:33,950 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0280.jpg
+2023-10-20 10:41:34,912 - clip - INFO - Image got label person
+2023-10-20 10:41:34,913 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0987.jpg
+2023-10-20 10:41:35,870 - clip - INFO - Image got label fruit
+2023-10-20 10:41:35,871 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0176.jpg
+2023-10-20 10:41:36,867 - clip - INFO - Image got label car
+2023-10-20 10:41:36,868 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0777.jpg
+2023-10-20 10:41:37,824 - clip - INFO - Image got label fruit
+2023-10-20 10:41:37,825 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0681.jpg
+2023-10-20 10:41:38,789 - clip - INFO - Image got label flower
+2023-10-20 10:41:38,790 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0610.jpg
+2023-10-20 10:41:39,750 - clip - INFO - Image got label car
+2023-10-20 10:41:39,751 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0011.jpg
+2023-10-20 10:41:40,700 - clip - INFO - Image got label fruit
+2023-10-20 10:41:40,700 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0109.jpg
+2023-10-20 10:41:41,688 - clip - INFO - Image got label dog
+2023-10-20 10:41:41,690 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0269.jpg
+2023-10-20 10:41:42,635 - clip - INFO - Image got label motorbike
+2023-10-20 10:41:42,635 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0604.jpg
+2023-10-20 10:41:43,584 - clip - INFO - Image got label car
+2023-10-20 10:41:43,585 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0005.jpg
+2023-10-20 10:41:44,527 - clip - INFO - Image got label fruit
+2023-10-20 10:41:44,527 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0162.jpg
+2023-10-20 10:41:45,499 - clip - INFO - Image got label car
+2023-10-20 10:41:45,500 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0763.jpg
+2023-10-20 10:41:46,455 - clip - INFO - Image got label fruit
+2023-10-20 10:41:46,455 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0695.jpg
+2023-10-20 10:41:47,431 - clip - INFO - Image got label flower
+2023-10-20 10:41:47,432 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0339.jpg
+2023-10-20 10:41:48,378 - clip - INFO - Image got label cat
+2023-10-20 10:41:48,379 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0229.jpg
+2023-10-20 10:41:49,340 - clip - INFO - Image got label airplane
+2023-10-20 10:41:49,340 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0257.jpg
+2023-10-20 10:41:50,306 - clip - INFO - Image got label person
+2023-10-20 10:41:50,307 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0950.jpg
+2023-10-20 10:41:51,252 - clip - INFO - Image got label fruit
+2023-10-20 10:41:51,253 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0690.jpg
+2023-10-20 10:41:52,214 - clip - INFO - Image got label dog
+2023-10-20 10:41:52,215 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0788.jpg
+2023-10-20 10:41:53,158 - clip - INFO - Image got label fruit
+2023-10-20 10:41:53,159 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0189.jpg
+2023-10-20 10:41:54,130 - clip - INFO - Image got label car
+2023-10-20 10:41:54,131 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0837.jpg
+2023-10-20 10:41:55,079 - clip - INFO - Image got label car
+2023-10-20 10:41:55,079 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0531.jpg
+2023-10-20 10:41:56,039 - clip - INFO - Image got label person
+2023-10-20 10:41:56,040 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0118.jpg
+2023-10-20 10:41:56,962 - clip - INFO - Image got label flower
+2023-10-20 10:41:56,963 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0296.jpg
+2023-10-20 10:41:57,994 - clip - INFO - Image got label motorbike
+2023-10-20 10:41:57,995 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0282.jpg
+2023-10-20 10:41:58,989 - clip - INFO - Image got label motorbike
+2023-10-20 10:41:58,989 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0823.jpg
+2023-10-20 10:41:59,929 - clip - INFO - Image got label car
+2023-10-20 10:41:59,930 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0525.jpg
+2023-10-20 10:42:00,920 - clip - INFO - Image got label person
+2023-10-20 10:42:00,920 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0243.jpg
+2023-10-20 10:42:01,905 - clip - INFO - Image got label person
+2023-10-20 10:42:01,906 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0944.jpg
+2023-10-20 10:42:02,905 - clip - INFO - Image got label fruit
+2023-10-20 10:42:02,905 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0684.jpg
+2023-10-20 10:42:03,905 - clip - INFO - Image got label dog
+2023-10-20 10:42:03,906 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0642.jpg
+2023-10-20 10:42:04,851 - clip - INFO - Image got label flower
+2023-10-20 10:42:04,852 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0215.jpg
+2023-10-20 10:42:05,809 - clip - INFO - Image got label airplane
+2023-10-20 10:42:05,811 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0573.jpg
+2023-10-20 10:42:06,788 - clip - INFO - Image got label airplane
+2023-10-20 10:42:06,789 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0488.jpg
+2023-10-20 10:42:07,764 - clip - INFO - Image got label cat
+2023-10-20 10:42:07,764 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0124.jpg
+2023-10-20 10:42:08,727 - clip - INFO - Image got label flower
+2023-10-20 10:42:08,728 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0130.jpg
+2023-10-20 10:42:09,678 - clip - INFO - Image got label flower
+2023-10-20 10:42:09,679 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0519.jpg
+2023-10-20 10:42:10,642 - clip - INFO - Image got label person
+2023-10-20 10:42:10,642 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0567.jpg
+2023-10-20 10:42:11,680 - clip - INFO - Image got label airplane
+2023-10-20 10:42:11,680 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0201.jpg
+2023-10-20 10:42:12,645 - clip - INFO - Image got label airplane
+2023-10-20 10:42:12,646 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0656.jpg
+2023-10-20 10:42:13,651 - clip - INFO - Image got label flower
+2023-10-20 10:42:13,652 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0978.jpg
+2023-10-20 10:42:14,602 - clip - INFO - Image got label fruit
+2023-10-20 10:42:14,603 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0337.jpg
+2023-10-20 10:42:15,626 - clip - INFO - Image got label dog
+2023-10-20 10:42:15,627 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0928.jpg
+2023-10-20 10:42:16,567 - clip - INFO - Image got label person
+2023-10-20 10:42:16,568 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0057.jpg
+2023-10-20 10:42:17,529 - clip - INFO - Image got label motorbike
+2023-10-20 10:42:17,530 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0675.jpg
+2023-10-20 10:42:18,506 - clip - INFO - Image got label cat
+2023-10-20 10:42:18,506 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0731.jpg
+2023-10-20 10:42:19,524 - clip - INFO - Image got label motorbike
+2023-10-20 10:42:19,525 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0113.jpg
+2023-10-20 10:42:20,488 - clip - INFO - Image got label cat
+2023-10-20 10:42:20,489 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0096.jpg
+2023-10-20 10:42:21,515 - clip - INFO - Image got label person
+2023-10-20 10:42:21,516 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0348.jpg
+2023-10-20 10:42:22,492 - clip - INFO - Image got label car
+2023-10-20 10:42:22,493 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0549.jpg
+2023-10-20 10:42:23,502 - clip - INFO - Image got label fruit
+2023-10-20 10:42:23,503 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0451.jpg
+2023-10-20 10:42:24,440 - clip - INFO - Image got label dog
+2023-10-20 10:42:24,441 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0082.jpg
+2023-10-20 10:42:25,438 - clip - INFO - Image got label person
+2023-10-20 10:42:25,439 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0445.jpg
+2023-10-20 10:42:26,365 - clip - INFO - Image got label dog
+2023-10-20 10:42:26,366 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0107.jpg
+2023-10-20 10:42:27,372 - clip - INFO - Image got label cat
+2023-10-20 10:42:27,373 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0725.jpg
+2023-10-20 10:42:28,373 - clip - INFO - Image got label motorbike
+2023-10-20 10:42:28,373 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0661.jpg
+2023-10-20 10:42:29,375 - clip - INFO - Image got label cat
+2023-10-20 10:42:29,375 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0043.jpg
+2023-10-20 10:42:30,394 - clip - INFO - Image got label motorbike
+2023-10-20 10:42:30,395 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0323.jpg
+2023-10-20 10:42:31,392 - clip - INFO - Image got label dog
+2023-10-20 10:42:31,393 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0649.jpg
+2023-10-20 10:42:32,424 - clip - INFO - Image got label cat
+2023-10-20 10:42:32,425 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0914.jpg
+2023-10-20 10:42:33,490 - clip - INFO - Image got label person
+2023-10-20 10:42:33,491 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0213.jpg
+2023-10-20 10:42:34,502 - clip - INFO - Image got label fruit
+2023-10-20 10:42:34,503 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0412.jpg
+2023-10-20 10:42:35,501 - clip - INFO - Image got label car
+2023-10-20 10:42:35,501 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0483.jpg
+2023-10-20 10:42:36,521 - clip - INFO - Image got label flower
+2023-10-20 10:42:36,522 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0575.jpg
+2023-10-20 10:42:37,516 - clip - INFO - Image got label fruit
+2023-10-20 10:42:37,516 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0374.jpg
+2023-10-20 10:42:38,508 - clip - INFO - Image got label car
+2023-10-20 10:42:38,509 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0719.jpg
+2023-10-20 10:42:39,471 - clip - INFO - Image got label motorbike
+2023-10-20 10:42:39,472 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0497.jpg
+2023-10-20 10:42:40,497 - clip - INFO - Image got label flower
+2023-10-20 10:42:40,497 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0561.jpg
+2023-10-20 10:42:41,527 - clip - INFO - Image got label fruit
+2023-10-20 10:42:41,528 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0360.jpg
+2023-10-20 10:42:42,512 - clip - INFO - Image got label car
+2023-10-20 10:42:42,512 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0479.jpg
+2023-10-20 10:42:43,499 - clip - INFO - Image got label dog
+2023-10-20 10:42:43,500 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0900.jpg
+2023-10-20 10:42:44,462 - clip - INFO - Image got label person
+2023-10-20 10:42:44,462 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0207.jpg
+2023-10-20 10:42:45,456 - clip - INFO - Image got label fruit
+2023-10-20 10:42:45,457 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0406.jpg
+2023-10-20 10:42:46,421 - clip - INFO - Image got label car
+2023-10-20 10:42:46,421 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0094.jpg
+2023-10-20 10:42:47,423 - clip - INFO - Image got label motorbike
+2023-10-20 10:42:47,424 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0733.jpg
+2023-10-20 10:42:48,408 - clip - INFO - Image got label person
+2023-10-20 10:42:48,409 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0492.jpg
+2023-10-20 10:42:49,326 - clip - INFO - Image got label dog
+2023-10-20 10:42:49,326 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0055.jpg
+2023-10-20 10:42:50,330 - clip - INFO - Image got label person
+2023-10-20 10:42:50,331 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0486.jpg
+2023-10-20 10:42:51,302 - clip - INFO - Image got label dog
+2023-10-20 10:42:51,303 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0468.jpg
+2023-10-20 10:42:52,253 - clip - INFO - Image got label flower
+2023-10-20 10:42:52,253 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0041.jpg
+2023-10-20 10:42:53,234 - clip - INFO - Image got label person
+2023-10-20 10:42:53,235 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0727.jpg
+2023-10-20 10:42:54,176 - clip - INFO - Image got label person
+2023-10-20 10:42:54,178 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0080.jpg
+2023-10-20 10:42:55,120 - clip - INFO - Image got label motorbike
+2023-10-20 10:42:55,121 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0326.jpg
+2023-10-20 10:42:56,082 - clip - INFO - Image got label flower
+2023-10-20 10:42:56,083 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0852.jpg
+2023-10-20 10:42:57,039 - clip - INFO - Image got label cat
+2023-10-20 10:42:57,040 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0017.jpg
+2023-10-20 10:42:58,000 - clip - INFO - Image got label airplane
+2023-10-20 10:42:58,001 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0069.jpg
+2023-10-20 10:42:58,977 - clip - INFO - Image got label person
+2023-10-20 10:42:58,977 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0440.jpg
+2023-10-20 10:42:59,949 - clip - INFO - Image got label flower
+2023-10-20 10:42:59,950 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0454.jpg
+2023-10-20 10:43:00,911 - clip - INFO - Image got label flower
+2023-10-20 10:43:00,912 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0003.jpg
+2023-10-20 10:43:01,876 - clip - INFO - Image got label airplane
+2023-10-20 10:43:01,877 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0846.jpg
+2023-10-20 10:43:02,861 - clip - INFO - Image got label cat
+2023-10-20 10:43:02,862 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0332.jpg
+2023-10-20 10:43:03,855 - clip - INFO - Image got label flower
+2023-10-20 10:43:03,856 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0684.jpg
+2023-10-20 10:43:04,812 - clip - INFO - Image got label airplane
+2023-10-20 10:43:04,813 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0243.jpg
+2023-10-20 10:43:05,746 - clip - INFO - Image got label dog
+2023-10-20 10:43:05,747 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0701.jpg
+2023-10-20 10:43:06,799 - clip - INFO - Image got label cat
+2023-10-20 10:43:06,800 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0123.jpg
+2023-10-20 10:43:07,754 - clip - INFO - Image got label motorbike
+2023-10-20 10:43:07,755 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0067.jpg
+2023-10-20 10:43:08,748 - clip - INFO - Image got label cat
+2023-10-20 10:43:08,749 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0645.jpg
+2023-10-20 10:43:09,828 - clip - INFO - Image got label motorbike
+2023-10-20 10:43:09,829 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0525.jpg
+2023-10-20 10:43:10,752 - clip - INFO - Image got label dog
+2023-10-20 10:43:10,752 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0531.jpg
+2023-10-20 10:43:11,730 - clip - INFO - Image got label dog
+2023-10-20 10:43:11,731 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0228.jpg
+2023-10-20 10:43:12,665 - clip - INFO - Image got label car
+2023-10-20 10:43:12,665 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0429.jpg
+2023-10-20 10:43:13,664 - clip - INFO - Image got label fruit
+2023-10-20 10:43:13,665 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0651.jpg
+2023-10-20 10:43:14,617 - clip - INFO - Image got label motorbike
+2023-10-20 10:43:14,617 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0188.jpg
+2023-10-20 10:43:15,617 - clip - INFO - Image got label airplane
+2023-10-20 10:43:15,618 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0073.jpg
+2023-10-20 10:43:16,566 - clip - INFO - Image got label cat
+2023-10-20 10:43:16,566 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0137.jpg
+2023-10-20 10:43:17,545 - clip - INFO - Image got label motorbike
+2023-10-20 10:43:17,546 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0715.jpg
+2023-10-20 10:43:18,526 - clip - INFO - Image got label cat
+2023-10-20 10:43:18,528 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0690.jpg
+2023-10-20 10:43:19,507 - clip - INFO - Image got label person
+2023-10-20 10:43:19,508 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0257.jpg
+2023-10-20 10:43:20,506 - clip - INFO - Image got label dog
+2023-10-20 10:43:20,506 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0848.jpg
+2023-10-20 10:43:21,445 - clip - INFO - Image got label person
+2023-10-20 10:43:21,446 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0291.jpg
+2023-10-20 10:43:22,438 - clip - INFO - Image got label flower
+2023-10-20 10:43:22,439 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0367.jpg
+2023-10-20 10:43:23,396 - clip - INFO - Image got label fruit
+2023-10-20 10:43:23,396 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0566.jpg
+2023-10-20 10:43:24,369 - clip - INFO - Image got label car
+2023-10-20 10:43:24,369 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0860.jpg
+2023-10-20 10:43:25,341 - clip - INFO - Image got label person
+2023-10-20 10:43:25,342 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0519.jpg
+2023-10-20 10:43:26,295 - clip - INFO - Image got label dog
+2023-10-20 10:43:26,295 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0401.jpg
+2023-10-20 10:43:27,237 - clip - INFO - Image got label fruit
+2023-10-20 10:43:27,237 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0200.jpg
+2023-10-20 10:43:28,185 - clip - INFO - Image got label car
+2023-10-20 10:43:28,186 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0679.jpg
+2023-10-20 10:43:29,147 - clip - INFO - Image got label motorbike
+2023-10-20 10:43:29,149 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0415.jpg
+2023-10-20 10:43:30,141 - clip - INFO - Image got label fruit
+2023-10-20 10:43:30,142 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0214.jpg
+2023-10-20 10:43:31,487 - clip - INFO - Image got label car
+2023-10-20 10:43:31,489 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0285.jpg
+2023-10-20 10:43:32,677 - clip - INFO - Image got label flower
+2023-10-20 10:43:32,677 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0373.jpg
+2023-10-20 10:43:33,813 - clip - INFO - Image got label fruit
+2023-10-20 10:43:33,814 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0572.jpg
+2023-10-20 10:43:34,823 - clip - INFO - Image got label car
+2023-10-20 10:43:34,823 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0874.jpg
+2023-10-20 10:43:35,827 - clip - INFO - Image got label person
+2023-10-20 10:43:35,827 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0729.jpg
+2023-10-20 10:43:36,729 - clip - INFO - Image got label cat
+2023-10-20 10:43:36,730 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0639.jpg
+2023-10-20 10:43:37,674 - clip - INFO - Image got label airplane
+2023-10-20 10:43:37,675 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0599.jpg
+2023-10-20 10:43:38,618 - clip - INFO - Image got label car
+2023-10-20 10:43:38,618 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0398.jpg
+2023-10-20 10:43:39,535 - clip - INFO - Image got label fruit
+2023-10-20 10:43:39,535 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0280.jpg
+2023-10-20 10:43:40,484 - clip - INFO - Image got label dog
+2023-10-20 10:43:40,485 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0647.jpg
+2023-10-20 10:43:41,400 - clip - INFO - Image got label person
+2023-10-20 10:43:41,400 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0508.jpg
+2023-10-20 10:43:42,372 - clip - INFO - Image got label flower
+2023-10-20 10:43:42,373 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0121.jpg
+2023-10-20 10:43:43,292 - clip - INFO - Image got label person
+2023-10-20 10:43:43,292 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0686.jpg
+2023-10-20 10:43:44,232 - clip - INFO - Image got label motorbike
+2023-10-20 10:43:44,233 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0692.jpg
+2023-10-20 10:43:45,143 - clip - INFO - Image got label motorbike
+2023-10-20 10:43:45,144 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0135.jpg
+2023-10-20 10:43:46,087 - clip - INFO - Image got label person
+2023-10-20 10:43:46,088 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0294.jpg
+2023-10-20 10:43:47,078 - clip - INFO - Image got label dog
+2023-10-20 10:43:47,079 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0653.jpg
+2023-10-20 10:43:48,004 - clip - INFO - Image got label person
+2023-10-20 10:43:48,004 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0252.jpg
+2023-10-20 10:43:48,959 - clip - INFO - Image got label flower
+2023-10-20 10:43:48,959 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0605.jpg
+2023-10-20 10:43:49,903 - clip - INFO - Image got label airplane
+2023-10-20 10:43:49,903 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0163.jpg
+2023-10-20 10:43:50,831 - clip - INFO - Image got label airplane
+2023-10-20 10:43:50,831 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0098.jpg
+2023-10-20 10:43:51,770 - clip - INFO - Image got label cat
+2023-10-20 10:43:51,771 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0534.jpg
+2023-10-20 10:43:52,719 - clip - INFO - Image got label flower
+2023-10-20 10:43:52,719 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0109.jpg
+2023-10-20 10:43:53,637 - clip - INFO - Image got label person
+2023-10-20 10:43:53,637 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0520.jpg
+2023-10-20 10:43:54,580 - clip - INFO - Image got label flower
+2023-10-20 10:43:54,581 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0177.jpg
+2023-10-20 10:43:55,507 - clip - INFO - Image got label airplane
+2023-10-20 10:43:55,507 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0611.jpg
+2023-10-20 10:43:56,450 - clip - INFO - Image got label airplane
+2023-10-20 10:43:56,451 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0246.jpg
+2023-10-20 10:43:57,378 - clip - INFO - Image got label flower
+2023-10-20 10:43:57,378 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0447.jpg
+2023-10-20 10:43:58,308 - clip - INFO - Image got label motorbike
+2023-10-20 10:43:58,308 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0265.jpg
+2023-10-20 10:43:59,241 - clip - INFO - Image got label cat
+2023-10-20 10:43:59,241 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0321.jpg
+2023-10-20 10:44:00,198 - clip - INFO - Image got label motorbike
+2023-10-20 10:44:00,199 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0503.jpg
+2023-10-20 10:44:01,137 - clip - INFO - Image got label cat
+2023-10-20 10:44:01,138 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0041.jpg
+2023-10-20 10:44:02,072 - clip - INFO - Image got label cat
+2023-10-20 10:44:02,072 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0159.jpg
+2023-10-20 10:44:03,008 - clip - INFO - Image got label fruit
+2023-10-20 10:44:03,008 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0758.jpg
+2023-10-20 10:44:03,934 - clip - INFO - Image got label car
+2023-10-20 10:44:03,934 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0486.jpg
+2023-10-20 10:44:04,864 - clip - INFO - Image got label person
+2023-10-20 10:44:04,865 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0055.jpg
+2023-10-20 10:44:05,794 - clip - INFO - Image got label dog
+2023-10-20 10:44:05,795 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0492.jpg
+2023-10-20 10:44:06,735 - clip - INFO - Image got label person
+2023-10-20 10:44:06,735 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0517.jpg
+2023-10-20 10:44:07,662 - clip - INFO - Image got label cat
+2023-10-20 10:44:07,663 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0335.jpg
+2023-10-20 10:44:08,619 - clip - INFO - Image got label motorbike
+2023-10-20 10:44:08,619 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0271.jpg
+2023-10-20 10:44:09,546 - clip - INFO - Image got label cat
+2023-10-20 10:44:09,546 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0453.jpg
+2023-10-20 10:44:10,481 - clip - INFO - Image got label motorbike
+2023-10-20 10:44:10,482 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0259.jpg
+2023-10-20 10:44:11,405 - clip - INFO - Image got label cat
+2023-10-20 10:44:11,406 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0002.jpg
+2023-10-20 10:44:12,368 - clip - INFO - Image got label car
+2023-10-20 10:44:12,369 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0603.jpg
+2023-10-20 10:44:13,297 - clip - INFO - Image got label fruit
+2023-10-20 10:44:13,297 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0764.jpg
+2023-10-20 10:44:14,237 - clip - INFO - Image got label car
+2023-10-20 10:44:14,237 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0165.jpg
+2023-10-20 10:44:15,245 - clip - INFO - Image got label fruit
+2023-10-20 10:44:15,246 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0093.jpg
+2023-10-20 10:44:16,226 - clip - INFO - Image got label flower
+2023-10-20 10:44:16,227 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0309.jpg
+2023-10-20 10:44:17,139 - clip - INFO - Image got label motorbike
+2023-10-20 10:44:17,140 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0069.jpg
+2023-10-20 10:44:18,056 - clip - INFO - Image got label dog
+2023-10-20 10:44:18,057 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0770.jpg
+2023-10-20 10:44:18,995 - clip - INFO - Image got label car
+2023-10-20 10:44:18,996 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0171.jpg
+2023-10-20 10:44:19,928 - clip - INFO - Image got label fruit
+2023-10-20 10:44:19,928 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0087.jpg
+2023-10-20 10:44:20,858 - clip - INFO - Image got label flower
+2023-10-20 10:44:20,858 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0016.jpg
+2023-10-20 10:44:21,759 - clip - INFO - Image got label car
+2023-10-20 10:44:21,759 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0617.jpg
+2023-10-20 10:44:22,715 - clip - INFO - Image got label fruit
+2023-10-20 10:44:22,716 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0484.jpg
+2023-10-20 10:44:23,686 - clip - INFO - Image got label motorbike
+2023-10-20 10:44:23,686 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0824.jpg
+2023-10-20 10:44:24,636 - clip - INFO - Image got label fruit
+2023-10-20 10:44:24,636 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0323.jpg
+2023-10-20 10:44:25,540 - clip - INFO - Image got label person
+2023-10-20 10:44:25,540 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0445.jpg
+2023-10-20 10:44:26,505 - clip - INFO - Image got label person
+2023-10-20 10:44:26,506 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0943.jpg
+2023-10-20 10:44:27,435 - clip - INFO - Image got label car
+2023-10-20 10:44:27,435 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0082.jpg
+2023-10-20 10:44:28,396 - clip - INFO - Image got label dog
+2023-10-20 10:44:28,397 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0451.jpg
+2023-10-20 10:44:29,327 - clip - INFO - Image got label person
+2023-10-20 10:44:29,329 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0078.jpg
+2023-10-20 10:44:30,268 - clip - INFO - Image got label flower
+2023-10-20 10:44:30,268 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0957.jpg
+2023-10-20 10:44:31,225 - clip - INFO - Image got label car
+2023-10-20 10:44:31,225 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0096.jpg
+2023-10-20 10:44:32,151 - clip - INFO - Image got label dog
+2023-10-20 10:44:32,152 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0830.jpg
+2023-10-20 10:44:33,078 - clip - INFO - Image got label dog
+2023-10-20 10:44:33,078 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0337.jpg
+2023-10-20 10:44:34,060 - clip - INFO - Image got label person
+2023-10-20 10:44:34,061 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0349.jpg
+2023-10-20 10:44:34,969 - clip - INFO - Image got label airplane
+2023-10-20 10:44:34,969 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0490.jpg
+2023-10-20 10:44:35,915 - clip - INFO - Image got label motorbike
+2023-10-20 10:44:35,915 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0818.jpg
+2023-10-20 10:44:36,833 - clip - INFO - Image got label fruit
+2023-10-20 10:44:36,834 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0736.jpg
+2023-10-20 10:44:38,223 - clip - INFO - Image got label flower
+2023-10-20 10:44:38,224 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0361.jpg
+2023-10-20 10:44:39,596 - clip - INFO - Image got label airplane
+2023-10-20 10:44:39,597 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0407.jpg
+2023-10-20 10:44:40,687 - clip - INFO - Image got label airplane
+2023-10-20 10:44:40,687 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0050.jpg
+2023-10-20 10:44:42,001 - clip - INFO - Image got label flower
+2023-10-20 10:44:42,002 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0479.jpg
+2023-10-20 10:44:43,019 - clip - INFO - Image got label person
+2023-10-20 10:44:43,020 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0044.jpg
+2023-10-20 10:44:44,120 - clip - INFO - Image got label flower
+2023-10-20 10:44:44,121 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0413.jpg
+2023-10-20 10:44:45,129 - clip - INFO - Image got label airplane
+2023-10-20 10:44:45,129 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0375.jpg
+2023-10-20 10:44:46,074 - clip - INFO - Image got label airplane
+2023-10-20 10:44:46,074 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0722.jpg
+2023-10-20 10:44:47,007 - clip - INFO - Image got label flower
+2023-10-20 10:44:47,008 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0052.jpg
+2023-10-20 10:44:47,933 - clip - INFO - Image got label flower
+2023-10-20 10:44:47,933 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0405.jpg
+2023-10-20 10:44:48,877 - clip - INFO - Image got label airplane
+2023-10-20 10:44:48,878 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0363.jpg
+2023-10-20 10:44:49,842 - clip - INFO - Image got label airplane
+2023-10-20 10:44:49,843 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0298.jpg
+2023-10-20 10:44:50,814 - clip - INFO - Image got label cat
+2023-10-20 10:44:50,815 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0734.jpg
+2023-10-20 10:44:51,774 - clip - INFO - Image got label flower
+2023-10-20 10:44:51,774 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0720.jpg
+2023-10-20 10:44:52,707 - clip - INFO - Image got label flower
+2023-10-20 10:44:52,707 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0309.jpg
+2023-10-20 10:44:53,665 - clip - INFO - Image got label person
+2023-10-20 10:44:53,665 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0377.jpg
+2023-10-20 10:44:54,569 - clip - INFO - Image got label airplane
+2023-10-20 10:44:54,570 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0411.jpg
+2023-10-20 10:44:55,531 - clip - INFO - Image got label airplane
+2023-10-20 10:44:55,532 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0046.jpg
+2023-10-20 10:44:56,461 - clip - INFO - Image got label flower
+2023-10-20 10:44:56,461 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0439.jpg
+2023-10-20 10:44:57,406 - clip - INFO - Image got label airplane
+2023-10-20 10:44:57,406 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0198.jpg
+2023-10-20 10:44:58,324 - clip - INFO - Image got label fruit
+2023-10-20 10:44:58,325 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0799.jpg
+2023-10-20 10:44:59,296 - clip - INFO - Image got label car
+2023-10-20 10:44:59,297 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0080.jpg
+2023-10-20 10:45:00,243 - clip - INFO - Image got label dog
+2023-10-20 10:45:00,244 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0941.jpg
+2023-10-20 10:45:01,172 - clip - INFO - Image got label car
+2023-10-20 10:45:01,172 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0447.jpg
+2023-10-20 10:45:02,102 - clip - INFO - Image got label person
+2023-10-20 10:45:02,102 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0321.jpg
+2023-10-20 10:45:03,049 - clip - INFO - Image got label person
+2023-10-20 10:45:03,049 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0708.jpg
+2023-10-20 10:45:03,990 - clip - INFO - Image got label flower
+2023-10-20 10:45:03,990 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0826.jpg
+2023-10-20 10:45:04,927 - clip - INFO - Image got label fruit
+2023-10-20 10:45:04,928 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0486.jpg
+2023-10-20 10:45:05,837 - clip - INFO - Image got label motorbike
+2023-10-20 10:45:05,837 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/personperson_0478.jpg
+2023-10-20 10:45:06,773 - clip - INFO - Image got label person
+2023-10-20 10:45:06,774 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0492.jpg
+2023-10-20 10:45:07,712 - clip - INFO - Image got label motorbike
+2023-10-20 10:45:07,713 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0335.jpg
+2023-10-20 10:45:08,651 - clip - INFO - Image got label person
+2023-10-20 10:45:08,651 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0832.jpg
+2023-10-20 10:45:09,560 - clip - INFO - Image got label fruit
+2023-10-20 10:45:09,560 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0094.jpg
+2023-10-20 10:45:10,501 - clip - INFO - Image got label dog
+2023-10-20 10:45:10,502 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0955.jpg
+2023-10-20 10:45:11,441 - clip - INFO - Image got label car
+2023-10-20 10:45:11,441 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0453.jpg
+2023-10-20 10:45:12,361 - clip - INFO - Image got label person
+2023-10-20 10:45:12,362 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0091.jpg
+2023-10-20 10:45:13,312 - clip - INFO - Image got label flower
+2023-10-20 10:45:13,313 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0766.jpg
+2023-10-20 10:45:14,233 - clip - INFO - Image got label car
+2023-10-20 10:45:14,234 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0167.jpg
+2023-10-20 10:45:15,149 - clip - INFO - Image got label fruit
+2023-10-20 10:45:15,150 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0000.jpg
+2023-10-20 10:45:16,106 - clip - INFO - Image got label car
+2023-10-20 10:45:16,106 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0601.jpg
+2023-10-20 10:45:17,026 - clip - INFO - Image got label fruit
+2023-10-20 10:45:17,026 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0479.jpg
+2023-10-20 10:45:17,947 - clip - INFO - Image got label motorbike
+2023-10-20 10:45:17,948 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0014.jpg
+2023-10-20 10:45:18,886 - clip - INFO - Image got label car
+2023-10-20 10:45:18,887 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0615.jpg
+2023-10-20 10:45:19,818 - clip - INFO - Image got label fruit
+2023-10-20 10:45:19,819 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0085.jpg
+2023-10-20 10:45:20,784 - clip - INFO - Image got label flower
+2023-10-20 10:45:20,784 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0772.jpg
+2023-10-20 10:45:21,721 - clip - INFO - Image got label car
+2023-10-20 10:45:21,721 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0173.jpg
+2023-10-20 10:45:22,700 - clip - INFO - Image got label person
+2023-10-20 10:45:22,700 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0529.jpg
+2023-10-20 10:45:23,668 - clip - INFO - Image got label cat
+2023-10-20 10:45:23,669 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0484.jpg
+2023-10-20 10:45:24,640 - clip - INFO - Image got label person
+2023-10-20 10:45:24,641 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0043.jpg
+2023-10-20 10:45:25,588 - clip - INFO - Image got label dog
+2023-10-20 10:45:25,589 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0501.jpg
+2023-10-20 10:45:26,529 - clip - INFO - Image got label cat
+2023-10-20 10:45:26,529 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0323.jpg
+2023-10-20 10:45:27,491 - clip - INFO - Image got label motorbike
+2023-10-20 10:45:27,492 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0267.jpg
+2023-10-20 10:45:28,386 - clip - INFO - Image got label cat
+2023-10-20 10:45:28,387 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0445.jpg
+2023-10-20 10:45:29,335 - clip - INFO - Image got label motorbike
+2023-10-20 10:45:29,335 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0629.jpg
+2023-10-20 10:45:30,281 - clip - INFO - Image got label fruit
+2023-10-20 10:45:30,282 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0028.jpg
+2023-10-20 10:45:31,215 - clip - INFO - Image got label car
+2023-10-20 10:45:31,215 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0388.jpg
+2023-10-20 10:45:32,149 - clip - INFO - Image got label airplane
+2023-10-20 10:45:32,150 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0451.jpg
+2023-10-20 10:45:33,080 - clip - INFO - Image got label motorbike
+2023-10-20 10:45:33,080 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0273.jpg
+2023-10-20 10:45:34,032 - clip - INFO - Image got label cat
+2023-10-20 10:45:34,032 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0337.jpg
+2023-10-20 10:45:34,982 - clip - INFO - Image got label motorbike
+2023-10-20 10:45:34,983 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0515.jpg
+2023-10-20 10:45:35,912 - clip - INFO - Image got label cat
+2023-10-20 10:45:35,912 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0490.jpg
+2023-10-20 10:45:36,845 - clip - INFO - Image got label person
+2023-10-20 10:45:36,845 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0057.jpg
+2023-10-20 10:45:37,782 - clip - INFO - Image got label dog
+2023-10-20 10:45:37,782 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0536.jpg
+2023-10-20 10:45:38,718 - clip - INFO - Image got label flower
+2023-10-20 10:45:38,719 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0161.jpg
+2023-10-20 10:45:39,678 - clip - INFO - Image got label airplane
+2023-10-20 10:45:39,678 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0607.jpg
+2023-10-20 10:45:40,687 - clip - INFO - Image got label airplane
+2023-10-20 10:45:40,688 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0679.jpg
+2023-10-20 10:45:41,764 - clip - INFO - Image got label person
+2023-10-20 10:45:41,764 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0250.jpg
+2023-10-20 10:45:42,970 - clip - INFO - Image got label flower
+2023-10-20 10:45:42,971 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0244.jpg
+2023-10-20 10:45:44,076 - clip - INFO - Image got label flower
+2023-10-20 10:45:44,076 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0613.jpg
+2023-10-20 10:45:45,087 - clip - INFO - Image got label airplane
+2023-10-20 10:45:45,087 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0175.jpg
+2023-10-20 10:45:46,049 - clip - INFO - Image got label airplane
+2023-10-20 10:45:46,049 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0522.jpg
+2023-10-20 10:45:47,004 - clip - INFO - Image got label flower
+2023-10-20 10:45:47,004 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0684.jpg
+2023-10-20 10:45:47,908 - clip - INFO - Image got label motorbike
+2023-10-20 10:45:47,909 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0123.jpg
+2023-10-20 10:45:48,844 - clip - INFO - Image got label person
+2023-10-20 10:45:48,844 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0645.jpg
+2023-10-20 10:45:49,794 - clip - INFO - Image got label person
+2023-10-20 10:45:49,794 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0282.jpg
+2023-10-20 10:45:50,735 - clip - INFO - Image got label dog
+2023-10-20 10:45:50,736 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0278.jpg
+2023-10-20 10:45:51,661 - clip - INFO - Image got label flower
+2023-10-20 10:45:51,661 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0651.jpg
+2023-10-20 10:45:52,589 - clip - INFO - Image got label person
+2023-10-20 10:45:52,589 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0889.jpg
+2023-10-20 10:45:53,523 - clip - INFO - Image got label person
+2023-10-20 10:45:53,523 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0296.jpg
+2023-10-20 10:45:54,481 - clip - INFO - Image got label dog
+2023-10-20 10:45:54,481 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0137.jpg
+2023-10-20 10:45:55,429 - clip - INFO - Image got label person
+2023-10-20 10:45:55,429 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0690.jpg
+2023-10-20 10:45:56,367 - clip - INFO - Image got label motorbike
+2023-10-20 10:45:56,368 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0149.jpg
+2023-10-20 10:45:57,302 - clip - INFO - Image got label airplane
+2023-10-20 10:45:57,303 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0059.jpg
+2023-10-20 10:45:58,237 - clip - INFO - Image got label cat
+2023-10-20 10:45:58,237 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0403.jpg
+2023-10-20 10:45:59,180 - clip - INFO - Image got label fruit
+2023-10-20 10:45:59,180 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0202.jpg
+2023-10-20 10:46:00,096 - clip - INFO - Image got label car
+2023-10-20 10:46:00,097 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0862.jpg
+2023-10-20 10:46:01,041 - clip - INFO - Image got label person
+2023-10-20 10:46:01,042 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0365.jpg
+2023-10-20 10:46:01,969 - clip - INFO - Image got label fruit
+2023-10-20 10:46:01,970 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0564.jpg
+2023-10-20 10:46:02,930 - clip - INFO - Image got label car
+2023-10-20 10:46:02,930 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0293.jpg
+2023-10-20 10:46:03,867 - clip - INFO - Image got label flower
+2023-10-20 10:46:03,868 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0109.jpg
+2023-10-20 10:46:04,812 - clip - INFO - Image got label motorbike
+2023-10-20 10:46:04,813 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0876.jpg
+2023-10-20 10:46:05,752 - clip - INFO - Image got label person
+2023-10-20 10:46:05,752 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0269.jpg
+2023-10-20 10:46:06,705 - clip - INFO - Image got label dog
+2023-10-20 10:46:06,705 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0371.jpg
+2023-10-20 10:46:07,640 - clip - INFO - Image got label fruit
+2023-10-20 10:46:07,640 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0570.jpg
+2023-10-20 10:46:08,596 - clip - INFO - Image got label car
+2023-10-20 10:46:08,596 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0287.jpg
+2023-10-20 10:46:09,538 - clip - INFO - Image got label flower
+2023-10-20 10:46:09,539 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0417.jpg
+2023-10-20 10:46:10,455 - clip - INFO - Image got label fruit
+2023-10-20 10:46:10,455 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0216.jpg
+2023-10-20 10:46:11,408 - clip - INFO - Image got label car
+2023-10-20 10:46:11,410 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0527.jpg
+2023-10-20 10:46:12,373 - clip - INFO - Image got label dog
+2023-10-20 10:46:12,373 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0647.jpg
+2023-10-20 10:46:13,303 - clip - INFO - Image got label motorbike
+2023-10-20 10:46:13,304 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0065.jpg
+2023-10-20 10:46:14,245 - clip - INFO - Image got label cat
+2023-10-20 10:46:14,245 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0121.jpg
+2023-10-20 10:46:15,217 - clip - INFO - Image got label motorbike
+2023-10-20 10:46:15,217 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0703.jpg
+2023-10-20 10:46:16,126 - clip - INFO - Image got label cat
+2023-10-20 10:46:16,126 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0241.jpg
+2023-10-20 10:46:17,061 - clip - INFO - Image got label dog
+2023-10-20 10:46:17,062 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0558.jpg
+2023-10-20 10:46:17,996 - clip - INFO - Image got label car
+2023-10-20 10:46:17,997 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0359.jpg
+2023-10-20 10:46:18,932 - clip - INFO - Image got label fruit
+2023-10-20 10:46:18,933 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0686.jpg
+2023-10-20 10:46:19,896 - clip - INFO - Image got label person
+2023-10-20 10:46:19,897 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0255.jpg
+2023-10-20 10:46:20,802 - clip - INFO - Image got label dog
+2023-10-20 10:46:20,802 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0692.jpg
+2023-10-20 10:46:21,739 - clip - INFO - Image got label person
+2023-10-20 10:46:21,740 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0717.jpg
+2023-10-20 10:46:22,685 - clip - INFO - Image got label cat
+2023-10-20 10:46:22,685 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0135.jpg
+2023-10-20 10:46:23,621 - clip - INFO - Image got label motorbike
+2023-10-20 10:46:23,621 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0071.jpg
+2023-10-20 10:46:24,593 - clip - INFO - Image got label cat
+2023-10-20 10:46:24,594 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0653.jpg
+2023-10-20 10:46:25,557 - clip - INFO - Image got label motorbike
+2023-10-20 10:46:25,558 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0533.jpg
+2023-10-20 10:46:26,473 - clip - INFO - Image got label dog
+2023-10-20 10:46:26,474 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0442.jpg
+2023-10-20 10:46:27,435 - clip - INFO - Image got label flower
+2023-10-20 10:46:27,436 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0015.jpg
+2023-10-20 10:46:28,354 - clip - INFO - Image got label airplane
+2023-10-20 10:46:28,355 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0688.jpg
+2023-10-20 10:46:29,301 - clip - INFO - Image got label cat
+2023-10-20 10:46:29,302 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0850.jpg
+2023-10-20 10:46:30,231 - clip - INFO - Image got label cat
+2023-10-20 10:46:30,232 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0324.jpg
+2023-10-20 10:46:31,193 - clip - INFO - Image got label flower
+2023-10-20 10:46:31,193 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0719.jpg
+2023-10-20 10:46:32,106 - clip - INFO - Image got label person
+2023-10-20 10:46:32,107 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0330.jpg
+2023-10-20 10:46:33,069 - clip - INFO - Image got label flower
+2023-10-20 10:46:33,070 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0844.jpg
+2023-10-20 10:46:33,970 - clip - INFO - Image got label cat
+2023-10-20 10:46:33,971 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0001.jpg
+2023-10-20 10:46:34,959 - clip - INFO - Image got label airplane
+2023-10-20 10:46:34,961 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0456.jpg
+2023-10-20 10:46:35,905 - clip - INFO - Image got label flower
+2023-10-20 10:46:35,906 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0029.jpg
+2023-10-20 10:46:36,808 - clip - INFO - Image got label airplane
+2023-10-20 10:46:36,808 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0057.jpg
+2023-10-20 10:46:37,738 - clip - INFO - Image got label person
+2023-10-20 10:46:37,738 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0490.jpg
+2023-10-20 10:46:38,694 - clip - INFO - Image got label dog
+2023-10-20 10:46:38,694 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0389.jpg
+2023-10-20 10:46:39,609 - clip - INFO - Image got label car
+2023-10-20 10:46:39,609 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0588.jpg
+2023-10-20 10:46:40,553 - clip - INFO - Image got label fruit
+2023-10-20 10:46:40,554 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0318.jpg
+2023-10-20 10:46:41,501 - clip - INFO - Image got label flower
+2023-10-20 10:46:41,502 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0731.jpg
+2023-10-20 10:46:42,441 - clip - INFO - Image got label person
+2023-10-20 10:46:42,444 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0096.jpg
+2023-10-20 10:46:43,377 - clip - INFO - Image got label motorbike
+2023-10-20 10:46:43,378 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0082.jpg
+2023-10-20 10:46:44,334 - clip - INFO - Image got label motorbike
+2023-10-20 10:46:44,334 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0878.jpg
+2023-10-20 10:46:45,989 - clip - INFO - Image got label cat
+2023-10-20 10:46:45,992 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0725.jpg
+2023-10-20 10:46:47,426 - clip - INFO - Image got label person
+2023-10-20 10:46:47,427 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0043.jpg
+2023-10-20 10:46:48,778 - clip - INFO - Image got label person
+2023-10-20 10:46:48,779 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0484.jpg
+2023-10-20 10:46:49,985 - clip - INFO - Image got label dog
+2023-10-20 10:46:49,986 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0577.jpg
+2023-10-20 10:46:50,999 - clip - INFO - Image got label fruit
+2023-10-20 10:46:51,000 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0376.jpg
+2023-10-20 10:46:51,933 - clip - INFO - Image got label car
+2023-10-20 10:46:51,935 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0481.jpg
+2023-10-20 10:46:52,909 - clip - INFO - Image got label flower
+2023-10-20 10:46:52,909 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0211.jpg
+2023-10-20 10:46:53,828 - clip - INFO - Image got label fruit
+2023-10-20 10:46:53,829 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0410.jpg
+2023-10-20 10:46:54,768 - clip - INFO - Image got label car
+2023-10-20 10:46:54,768 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0916.jpg
+2023-10-20 10:46:55,705 - clip - INFO - Image got label person
+2023-10-20 10:46:55,705 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0309.jpg
+2023-10-20 10:46:56,633 - clip - INFO - Image got label dog
+2023-10-20 10:46:56,634 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0069.jpg
+2023-10-20 10:46:57,604 - clip - INFO - Image got label motorbike
+2023-10-20 10:46:57,604 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0205.jpg
+2023-10-20 10:46:58,548 - clip - INFO - Image got label fruit
+2023-10-20 10:46:58,548 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0404.jpg
+2023-10-20 10:46:59,481 - clip - INFO - Image got label car
+2023-10-20 10:46:59,481 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0902.jpg
+2023-10-20 10:47:00,410 - clip - INFO - Image got label person
+2023-10-20 10:47:00,411 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0563.jpg
+2023-10-20 10:47:01,372 - clip - INFO - Image got label fruit
+2023-10-20 10:47:01,372 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0362.jpg
+2023-10-20 10:47:02,277 - clip - INFO - Image got label car
+2023-10-20 10:47:02,277 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0495.jpg
+2023-10-20 10:47:03,243 - clip - INFO - Image got label flower
+2023-10-20 10:47:03,244 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0139.jpg
+2023-10-20 10:47:04,144 - clip - INFO - Image got label cat
+2023-10-20 10:47:04,145 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0453.jpg
+2023-10-20 10:47:05,121 - clip - INFO - Image got label dog
+2023-10-20 10:47:05,121 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0094.jpg
+2023-10-20 10:47:06,026 - clip - INFO - Image got label person
+2023-10-20 10:47:06,027 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0111.jpg
+2023-10-20 10:47:07,070 - clip - INFO - Image got label cat
+2023-10-20 10:47:07,071 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0733.jpg
+2023-10-20 10:47:08,051 - clip - INFO - Image got label motorbike
+2023-10-20 10:47:08,051 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0677.jpg
+2023-10-20 10:47:09,008 - clip - INFO - Image got label cat
+2023-10-20 10:47:09,008 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0055.jpg
+2023-10-20 10:47:09,947 - clip - INFO - Image got label motorbike
+2023-10-20 10:47:09,947 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0335.jpg
+2023-10-20 10:47:11,297 - clip - INFO - Image got label dog
+2023-10-20 10:47:11,298 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0438.jpg
+2023-10-20 10:47:12,453 - clip - INFO - Image got label car
+2023-10-20 10:47:12,453 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0239.jpg
+2023-10-20 10:47:13,442 - clip - INFO - Image got label person
+2023-10-20 10:47:13,442 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0321.jpg
+2023-10-20 10:47:14,465 - clip - INFO - Image got label dog
+2023-10-20 10:47:14,466 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0041.jpg
+2023-10-20 10:47:15,470 - clip - INFO - Image got label motorbike
+2023-10-20 10:47:15,470 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0663.jpg
+2023-10-20 10:47:16,485 - clip - INFO - Image got label cat
+2023-10-20 10:47:16,486 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0727.jpg
+2023-10-20 10:47:17,675 - clip - INFO - Image got label motorbike
+2023-10-20 10:47:17,675 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0105.jpg
+2023-10-20 10:47:18,802 - clip - INFO - Image got label cat
+2023-10-20 10:47:18,802 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0447.jpg
+2023-10-20 10:47:19,917 - clip - INFO - Image got label dog
+2023-10-20 10:47:19,918 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0080.jpg
+2023-10-20 10:47:21,027 - clip - INFO - Image got label person
+2023-10-20 10:47:21,028 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0126.jpg
+2023-10-20 10:47:21,995 - clip - INFO - Image got label flower
+2023-10-20 10:47:21,995 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0809.jpg
+2023-10-20 10:47:22,934 - clip - INFO - Image got label car
+2023-10-20 10:47:22,934 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0571.jpg
+2023-10-20 10:47:23,846 - clip - INFO - Image got label airplane
+2023-10-20 10:47:23,846 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0217.jpg
+2023-10-20 10:47:24,815 - clip - INFO - Image got label airplane
+2023-10-20 10:47:24,815 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0640.jpg
+2023-10-20 10:47:25,775 - clip - INFO - Image got label flower
+2023-10-20 10:47:25,775 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0269.jpg
+2023-10-20 10:47:26,687 - clip - INFO - Image got label person
+2023-10-20 10:47:26,687 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0654.jpg
+2023-10-20 10:47:28,352 - clip - INFO - Image got label flower
+2023-10-20 10:47:28,353 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0203.jpg
+2023-10-20 10:47:29,781 - clip - INFO - Image got label airplane
+2023-10-20 10:47:29,782 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0565.jpg
+2023-10-20 10:47:31,199 - clip - INFO - Image got label airplane
+2023-10-20 10:47:31,203 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0132.jpg
+2023-10-20 10:47:32,329 - clip - INFO - Image got label flower
+2023-10-20 10:47:32,330 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0294.jpg
+2023-10-20 10:47:33,472 - clip - INFO - Image got label motorbike
+2023-10-20 10:47:33,473 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0533.jpg
+2023-10-20 10:47:34,599 - clip - INFO - Image got label person
+2023-10-20 10:47:34,600 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0835.jpg
+2023-10-20 10:47:35,715 - clip - INFO - Image got label car
+2023-10-20 10:47:35,717 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0692.jpg
+2023-10-20 10:47:37,382 - clip - INFO - Image got label dog
+2023-10-20 10:47:37,383 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0952.jpg
+2023-10-20 10:47:38,855 - clip - INFO - Image got label fruit
+2023-10-20 10:47:38,856 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0255.jpg
+2023-10-20 10:47:40,023 - clip - INFO - Image got label person
+2023-10-20 10:47:40,025 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0686.jpg
+2023-10-20 10:47:41,130 - clip - INFO - Image got label dog
+2023-10-20 10:47:41,130 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0946.jpg
+2023-10-20 10:47:42,080 - clip - INFO - Image got label fruit
+2023-10-20 10:47:42,080 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0241.jpg
+2023-10-20 10:47:43,087 - clip - INFO - Image got label person
+2023-10-20 10:47:43,088 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0668.jpg
+2023-10-20 10:47:44,078 - clip - INFO - Image got label flower
+2023-10-20 10:47:44,078 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0527.jpg
+2023-10-20 10:47:45,036 - clip - INFO - Image got label person
+2023-10-20 10:47:45,036 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0821.jpg
+2023-10-20 10:47:46,133 - clip - INFO - Image got label car
+2023-10-20 10:47:46,134 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0280.jpg
+2023-10-20 10:47:47,186 - clip - INFO - Image got label motorbike
+2023-10-20 10:47:47,187 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0559.jpg
+2023-10-20 10:47:48,226 - clip - INFO - Image got label airplane
+2023-10-20 10:47:48,227 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0449.jpg
+2023-10-20 10:47:49,198 - clip - INFO - Image got label cat
+2023-10-20 10:47:49,199 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0612.jpg
+2023-10-20 10:47:50,210 - clip - INFO - Image got label car
+2023-10-20 10:47:50,211 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0013.jpg
+2023-10-20 10:47:51,175 - clip - INFO - Image got label fruit
+2023-10-20 10:47:51,176 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0683.jpg
+2023-10-20 10:47:52,221 - clip - INFO - Image got label flower
+2023-10-20 10:47:52,221 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0174.jpg
+2023-10-20 10:47:53,136 - clip - INFO - Image got label car
+2023-10-20 10:47:53,137 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0775.jpg
+2023-10-20 10:47:54,122 - clip - INFO - Image got label fruit
+2023-10-20 10:47:54,123 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0519.jpg
+2023-10-20 10:47:55,045 - clip - INFO - Image got label motorbike
+2023-10-20 10:47:55,046 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0697.jpg
+2023-10-20 10:47:56,039 - clip - INFO - Image got label flower
+2023-10-20 10:47:56,040 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0160.jpg
+2023-10-20 10:47:57,056 - clip - INFO - Image got label car
+2023-10-20 10:47:57,057 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0761.jpg
+2023-10-20 10:47:58,006 - clip - INFO - Image got label fruit
+2023-10-20 10:47:58,007 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0679.jpg
+2023-10-20 10:47:58,978 - clip - INFO - Image got label dog
+2023-10-20 10:47:58,978 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0606.jpg
+2023-10-20 10:47:59,956 - clip - INFO - Image got label car
+2023-10-20 10:47:59,956 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0007.jpg
+2023-10-20 10:48:00,925 - clip - INFO - Image got label fruit
+2023-10-20 10:48:00,926 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0137.jpg
+2023-10-20 10:48:01,904 - clip - INFO - Image got label dog
+2023-10-20 10:48:01,905 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0257.jpg
+2023-10-20 10:48:02,873 - clip - INFO - Image got label motorbike
+2023-10-20 10:48:02,874 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0475.jpg
+2023-10-20 10:48:03,850 - clip - INFO - Image got label cat
+2023-10-20 10:48:03,850 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0531.jpg
+2023-10-20 10:48:04,809 - clip - INFO - Image got label motorbike
+2023-10-20 10:48:04,809 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0313.jpg
+2023-10-20 10:48:05,819 - clip - INFO - Image got label cat
+2023-10-20 10:48:05,819 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0991.jpg
+2023-10-20 10:48:06,724 - clip - INFO - Image got label fruit
+2023-10-20 10:48:06,724 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0296.jpg
+2023-10-20 10:48:07,797 - clip - INFO - Image got label person
+2023-10-20 10:48:07,797 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0749.jpg
+2023-10-20 10:48:08,863 - clip - INFO - Image got label fruit
+2023-10-20 10:48:08,863 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0148.jpg
+2023-10-20 10:48:09,816 - clip - INFO - Image got label car
+2023-10-20 10:48:09,817 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0651.jpg
+2023-10-20 10:48:11,035 - clip - INFO - Image got label dog
+2023-10-20 10:48:11,036 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0985.jpg
+2023-10-20 10:48:12,184 - clip - INFO - Image got label fruit
+2023-10-20 10:48:12,185 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0282.jpg
+2023-10-20 10:48:13,164 - clip - INFO - Image got label person
+2023-10-20 10:48:13,165 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0645.jpg
+2023-10-20 10:48:14,132 - clip - INFO - Image got label dog
+2023-10-20 10:48:14,132 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0307.jpg
+2023-10-20 10:48:15,105 - clip - INFO - Image got label cat
+2023-10-20 10:48:15,105 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0525.jpg
+2023-10-20 10:48:16,083 - clip - INFO - Image got label motorbike
+2023-10-20 10:48:16,084 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0461.jpg
+2023-10-20 10:48:17,035 - clip - INFO - Image got label cat
+2023-10-20 10:48:17,035 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0243.jpg
+2023-10-20 10:48:18,200 - clip - INFO - Image got label motorbike
+2023-10-20 10:48:18,201 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0123.jpg
+2023-10-20 10:48:19,204 - clip - INFO - Image got label dog
+2023-10-20 10:48:19,205 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0306.jpg
+2023-10-20 10:48:20,272 - clip - INFO - Image got label cat
+2023-10-20 10:48:20,273 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0524.jpg
+2023-10-20 10:48:21,331 - clip - INFO - Image got label motorbike
+2023-10-20 10:48:21,331 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0644.jpg
+2023-10-20 10:48:22,442 - clip - INFO - Image got label dog
+2023-10-20 10:48:22,443 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0283.jpg
+2023-10-20 10:48:23,446 - clip - INFO - Image got label person
+2023-10-20 10:48:23,446 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0984.jpg
+2023-10-20 10:48:24,463 - clip - INFO - Image got label fruit
+2023-10-20 10:48:24,464 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0122.jpg
+2023-10-20 10:48:25,703 - clip - INFO - Image got label dog
+2023-10-20 10:48:25,704 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0460.jpg
+2023-10-20 10:48:26,900 - clip - INFO - Image got label cat
+2023-10-20 10:48:26,902 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0242.jpg
+2023-10-20 10:48:27,917 - clip - INFO - Image got label motorbike
+2023-10-20 10:48:27,917 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0256.jpg
+2023-10-20 10:48:28,914 - clip - INFO - Image got label motorbike
+2023-10-20 10:48:28,914 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0474.jpg
+2023-10-20 10:48:30,012 - clip - INFO - Image got label cat
+2023-10-20 10:48:30,012 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0136.jpg
+2023-10-20 10:48:31,112 - clip - INFO - Image got label dog
+2023-10-20 10:48:31,113 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0650.jpg
+2023-10-20 10:48:32,144 - clip - INFO - Image got label dog
+2023-10-20 10:48:32,145 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0149.jpg
+2023-10-20 10:48:33,099 - clip - INFO - Image got label car
+2023-10-20 10:48:33,100 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0748.jpg
+2023-10-20 10:48:34,057 - clip - INFO - Image got label fruit
+2023-10-20 10:48:34,058 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0297.jpg
+2023-10-20 10:48:35,000 - clip - INFO - Image got label person
+2023-10-20 10:48:35,001 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0990.jpg
+2023-10-20 10:48:36,008 - clip - INFO - Image got label fruit
+2023-10-20 10:48:36,009 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0530.jpg
+2023-10-20 10:48:36,994 - clip - INFO - Image got label motorbike
+2023-10-20 10:48:36,995 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0312.jpg
+2023-10-20 10:48:37,948 - clip - INFO - Image got label cat
+2023-10-20 10:48:37,949 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0678.jpg
+2023-10-20 10:48:38,927 - clip - INFO - Image got label dog
+2023-10-20 10:48:38,927 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0760.jpg
+2023-10-20 10:48:39,877 - clip - INFO - Image got label fruit
+2023-10-20 10:48:39,878 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0161.jpg
+2023-10-20 10:48:40,849 - clip - INFO - Image got label car
+2023-10-20 10:48:40,849 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0696.jpg
+2023-10-20 10:48:41,825 - clip - INFO - Image got label flower
+2023-10-20 10:48:41,826 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0518.jpg
+2023-10-20 10:48:42,778 - clip - INFO - Image got label motorbike
+2023-10-20 10:48:42,778 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0006.jpg
+2023-10-20 10:48:43,729 - clip - INFO - Image got label fruit
+2023-10-20 10:48:43,730 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0607.jpg
+2023-10-20 10:48:44,697 - clip - INFO - Image got label car
+2023-10-20 10:48:44,698 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0012.jpg
+2023-10-20 10:48:45,607 - clip - INFO - Image got label fruit
+2023-10-20 10:48:45,608 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0613.jpg
+2023-10-20 10:48:46,608 - clip - INFO - Image got label car
+2023-10-20 10:48:46,609 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0448.jpg
+2023-10-20 10:48:47,543 - clip - INFO - Image got label cat
+2023-10-20 10:48:47,545 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0774.jpg
+2023-10-20 10:48:48,521 - clip - INFO - Image got label fruit
+2023-10-20 10:48:48,521 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0175.jpg
+2023-10-20 10:48:49,450 - clip - INFO - Image got label car
+2023-10-20 10:48:49,451 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0682.jpg
+2023-10-20 10:48:50,445 - clip - INFO - Image got label flower
+2023-10-20 10:48:50,445 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0669.jpg
+2023-10-20 10:48:51,388 - clip - INFO - Image got label flower
+2023-10-20 10:48:51,388 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0240.jpg
+2023-10-20 10:48:52,344 - clip - INFO - Image got label person
+2023-10-20 10:48:52,344 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0947.jpg
+2023-10-20 10:48:53,327 - clip - INFO - Image got label fruit
+2023-10-20 10:48:53,328 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0687.jpg
+2023-10-20 10:48:54,269 - clip - INFO - Image got label dog
+2023-10-20 10:48:54,270 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0558.jpg
+2023-10-20 10:48:55,238 - clip - INFO - Image got label airplane
+2023-10-20 10:48:55,239 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0281.jpg
+2023-10-20 10:48:56,185 - clip - INFO - Image got label motorbike
+2023-10-20 10:48:56,185 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0820.jpg
+2023-10-20 10:48:57,156 - clip - INFO - Image got label car
+2023-10-20 10:48:57,157 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0526.jpg
+2023-10-20 10:48:58,110 - clip - INFO - Image got label person
+2023-10-20 10:48:58,110 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0834.jpg
+2023-10-20 10:48:59,077 - clip - INFO - Image got label car
+2023-10-20 10:48:59,078 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0532.jpg
+2023-10-20 10:49:00,012 - clip - INFO - Image got label person
+2023-10-20 10:49:00,013 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0295.jpg
+2023-10-20 10:49:01,000 - clip - INFO - Image got label motorbike
+2023-10-20 10:49:01,001 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0254.jpg
+2023-10-20 10:49:01,908 - clip - INFO - Image got label person
+2023-10-20 10:49:01,910 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0953.jpg
+2023-10-20 10:49:02,906 - clip - INFO - Image got label fruit
+2023-10-20 10:49:02,907 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0693.jpg
+2023-10-20 10:49:03,835 - clip - INFO - Image got label dog
+2023-10-20 10:49:03,836 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0202.jpg
+2023-10-20 10:49:04,781 - clip - INFO - Image got label airplane
+2023-10-20 10:49:04,782 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0655.jpg
+2023-10-20 10:49:05,747 - clip - INFO - Image got label flower
+2023-10-20 10:49:05,748 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0133.jpg
+2023-10-20 10:49:06,724 - clip - INFO - Image got label flower
+2023-10-20 10:49:06,725 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0564.jpg
+2023-10-20 10:49:07,675 - clip - INFO - Image got label airplane
+2023-10-20 10:49:07,676 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0570.jpg
+2023-10-20 10:49:08,626 - clip - INFO - Image got label airplane
+2023-10-20 10:49:08,627 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0808.jpg
+2023-10-20 10:49:09,585 - clip - INFO - Image got label car
+2023-10-20 10:49:09,585 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0127.jpg
+2023-10-20 10:49:10,507 - clip - INFO - Image got label flower
+2023-10-20 10:49:10,508 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0268.jpg
+2023-10-20 10:49:11,479 - clip - INFO - Image got label person
+2023-10-20 10:49:11,480 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0641.jpg
+2023-10-20 10:49:12,440 - clip - INFO - Image got label flower
+2023-10-20 10:49:12,440 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0216.jpg
+2023-10-20 10:49:13,399 - clip - INFO - Image got label airplane
+2023-10-20 10:49:13,400 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0040.jpg
+2023-10-20 10:49:14,348 - clip - INFO - Image got label motorbike
+2023-10-20 10:49:14,349 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0662.jpg
+2023-10-20 10:49:15,318 - clip - INFO - Image got label cat
+2023-10-20 10:49:15,319 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0320.jpg
+2023-10-20 10:49:16,304 - clip - INFO - Image got label dog
+2023-10-20 10:49:16,304 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0238.jpg
+2023-10-20 10:49:17,274 - clip - INFO - Image got label fruit
+2023-10-20 10:49:17,275 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0439.jpg
+2023-10-20 10:49:18,237 - clip - INFO - Image got label car
+2023-10-20 10:49:18,237 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0081.jpg
+2023-10-20 10:49:19,184 - clip - INFO - Image got label person
+2023-10-20 10:49:19,184 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0446.jpg
+2023-10-20 10:49:20,150 - clip - INFO - Image got label dog
+2023-10-20 10:49:20,151 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0726.jpg
+2023-10-20 10:49:21,110 - clip - INFO - Image got label motorbike
+2023-10-20 10:49:21,111 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0104.jpg
+2023-10-20 10:49:22,071 - clip - INFO - Image got label cat
+2023-10-20 10:49:22,072 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0110.jpg
+2023-10-20 10:49:23,017 - clip - INFO - Image got label cat
+2023-10-20 10:49:23,018 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0732.jpg
+2023-10-20 10:49:24,000 - clip - INFO - Image got label motorbike
+2023-10-20 10:49:24,000 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0095.jpg
+2023-10-20 10:49:24,954 - clip - INFO - Image got label person
+2023-10-20 10:49:24,956 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0452.jpg
+2023-10-20 10:49:25,918 - clip - INFO - Image got label dog
+2023-10-20 10:49:25,919 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0334.jpg
+2023-10-20 10:49:26,905 - clip - INFO - Image got label dog
+2023-10-20 10:49:26,905 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0676.jpg
+2023-10-20 10:49:27,851 - clip - INFO - Image got label cat
+2023-10-20 10:49:27,852 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0054.jpg
+2023-10-20 10:49:28,807 - clip - INFO - Image got label motorbike
+2023-10-20 10:49:28,808 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0903.jpg
+2023-10-20 10:49:29,710 - clip - INFO - Image got label person
+2023-10-20 10:49:29,710 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0405.jpg
+2023-10-20 10:49:31,040 - clip - INFO - Image got label car
+2023-10-20 10:49:31,041 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0204.jpg
+2023-10-20 10:49:32,184 - clip - INFO - Image got label fruit
+2023-10-20 10:49:32,184 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0138.jpg
+2023-10-20 10:49:33,241 - clip - INFO - Image got label cat
+2023-10-20 10:49:33,242 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0494.jpg
+2023-10-20 10:49:34,283 - clip - INFO - Image got label flower
+2023-10-20 10:49:34,284 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0363.jpg
+2023-10-20 10:49:35,312 - clip - INFO - Image got label car
+2023-10-20 10:49:35,313 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0562.jpg
+2023-10-20 10:49:36,388 - clip - INFO - Image got label fruit
+2023-10-20 10:49:36,389 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0480.jpg
+2023-10-20 10:49:37,465 - clip - INFO - Image got label flower
+2023-10-20 10:49:37,466 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0377.jpg
+2023-10-20 10:49:38,545 - clip - INFO - Image got label car
+2023-10-20 10:49:38,546 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0576.jpg
+2023-10-20 10:49:39,615 - clip - INFO - Image got label fruit
+2023-10-20 10:49:39,615 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0068.jpg
+2023-10-20 10:49:40,733 - clip - INFO - Image got label motorbike
+2023-10-20 10:49:40,734 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0308.jpg
+2023-10-20 10:49:41,864 - clip - INFO - Image got label dog
+2023-10-20 10:49:41,865 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0917.jpg
+2023-10-20 10:49:42,907 - clip - INFO - Image got label person
+2023-10-20 10:49:42,908 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0411.jpg
+2023-10-20 10:49:43,845 - clip - INFO - Image got label car
+2023-10-20 10:49:43,845 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0210.jpg
+2023-10-20 10:49:44,801 - clip - INFO - Image got label fruit
+2023-10-20 10:49:44,802 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0724.jpg
+2023-10-20 10:49:45,759 - clip - INFO - Image got label person
+2023-10-20 10:49:45,760 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0879.jpg
+2023-10-20 10:49:46,722 - clip - INFO - Image got label cat
+2023-10-20 10:49:46,723 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0083.jpg
+2023-10-20 10:49:47,679 - clip - INFO - Image got label motorbike
+2023-10-20 10:49:47,680 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0485.jpg
+2023-10-20 10:49:48,662 - clip - INFO - Image got label dog
+2023-10-20 10:49:48,663 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0042.jpg
+2023-10-20 10:49:49,599 - clip - INFO - Image got label person
+2023-10-20 10:49:49,600 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0589.jpg
+2023-10-20 10:49:50,582 - clip - INFO - Image got label fruit
+2023-10-20 10:49:50,582 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0388.jpg
+2023-10-20 10:49:51,541 - clip - INFO - Image got label car
+2023-10-20 10:49:51,542 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0491.jpg
+2023-10-20 10:49:52,497 - clip - INFO - Image got label dog
+2023-10-20 10:49:52,497 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0056.jpg
+2023-10-20 10:49:53,460 - clip - INFO - Image got label person
+2023-10-20 10:49:53,461 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0028.jpg
+2023-10-20 10:49:54,418 - clip - INFO - Image got label airplane
+2023-10-20 10:49:54,419 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0097.jpg
+2023-10-20 10:49:55,389 - clip - INFO - Image got label motorbike
+2023-10-20 10:49:55,391 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0730.jpg
+2023-10-20 10:49:56,368 - clip - INFO - Image got label person
+2023-10-20 10:49:56,369 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0319.jpg
+2023-10-20 10:49:57,315 - clip - INFO - Image got label flower
+2023-10-20 10:49:57,316 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0845.jpg
+2023-10-20 10:49:58,274 - clip - INFO - Image got label cat
+2023-10-20 10:49:58,275 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0331.jpg
+2023-10-20 10:49:59,240 - clip - INFO - Image got label flower
+2023-10-20 10:49:59,241 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0718.jpg
+2023-10-20 10:50:00,193 - clip - INFO - Image got label person
+2023-10-20 10:50:00,194 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0457.jpg
+2023-10-20 10:50:01,159 - clip - INFO - Image got label flower
+2023-10-20 10:50:01,160 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0000.jpg
+2023-10-20 10:50:02,074 - clip - INFO - Image got label airplane
+2023-10-20 10:50:02,074 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0014.jpg
+2023-10-20 10:50:03,154 - clip - INFO - Image got label airplane
+2023-10-20 10:50:03,155 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0443.jpg
+2023-10-20 10:50:04,090 - clip - INFO - Image got label flower
+2023-10-20 10:50:04,090 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0325.jpg
+2023-10-20 10:50:05,147 - clip - INFO - Image got label flower
+2023-10-20 10:50:05,147 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0851.jpg
+2023-10-20 10:50:06,087 - clip - INFO - Image got label cat
+2023-10-20 10:50:06,087 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0689.jpg
+2023-10-20 10:50:07,116 - clip - INFO - Image got label cat
+2023-10-20 10:50:07,117 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0716.jpg
+2023-10-20 10:50:08,241 - clip - INFO - Image got label cat
+2023-10-20 10:50:08,242 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0134.jpg
+2023-10-20 10:50:09,257 - clip - INFO - Image got label motorbike
+2023-10-20 10:50:09,259 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0693.jpg
+2023-10-20 10:50:10,251 - clip - INFO - Image got label person
+2023-10-20 10:50:10,252 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0254.jpg
+2023-10-20 10:50:11,271 - clip - INFO - Image got label dog
+2023-10-20 10:50:11,271 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0532.jpg
+2023-10-20 10:50:12,408 - clip - INFO - Image got label dog
+2023-10-20 10:50:12,409 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0070.jpg
+2023-10-20 10:50:13,493 - clip - INFO - Image got label cat
+2023-10-20 10:50:13,495 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0652.jpg
+2023-10-20 10:50:14,825 - clip - INFO - Image got label motorbike
+2023-10-20 10:50:14,826 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0646.jpg
+2023-10-20 10:50:16,475 - clip - INFO - Image got label motorbike
+2023-10-20 10:50:16,476 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0064.jpg
+2023-10-20 10:50:17,501 - clip - INFO - Image got label cat
+2023-10-20 10:50:17,502 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0526.jpg
+2023-10-20 10:50:18,497 - clip - INFO - Image got label dog
+2023-10-20 10:50:18,497 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0687.jpg
+2023-10-20 10:50:19,436 - clip - INFO - Image got label person
+2023-10-20 10:50:19,437 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0358.jpg
+2023-10-20 10:50:20,495 - clip - INFO - Image got label fruit
+2023-10-20 10:50:20,497 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0559.jpg
+2023-10-20 10:50:21,695 - clip - INFO - Image got label car
+2023-10-20 10:50:21,696 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0240.jpg
+2023-10-20 10:50:22,764 - clip - INFO - Image got label dog
+2023-10-20 10:50:22,765 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0120.jpg
+2023-10-20 10:50:23,832 - clip - INFO - Image got label motorbike
+2023-10-20 10:50:23,832 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0702.jpg
+2023-10-20 10:50:24,875 - clip - INFO - Image got label cat
+2023-10-20 10:50:24,875 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0286.jpg
+2023-10-20 10:50:25,816 - clip - INFO - Image got label flower
+2023-10-20 10:50:25,817 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0571.jpg
+2023-10-20 10:50:26,775 - clip - INFO - Image got label car
+2023-10-20 10:50:26,775 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0370.jpg
+2023-10-20 10:50:27,764 - clip - INFO - Image got label fruit
+2023-10-20 10:50:27,765 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0268.jpg
+2023-10-20 10:50:28,698 - clip - INFO - Image got label dog
+2023-10-20 10:50:28,699 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0877.jpg
+2023-10-20 10:50:29,732 - clip - INFO - Image got label person
+2023-10-20 10:50:29,733 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0108.jpg
+2023-10-20 10:50:30,746 - clip - INFO - Image got label motorbike
+2023-10-20 10:50:30,747 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0217.jpg
+2023-10-20 10:50:31,652 - clip - INFO - Image got label car
+2023-10-20 10:50:31,653 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0416.jpg
+2023-10-20 10:50:32,700 - clip - INFO - Image got label fruit
+2023-10-20 10:50:32,701 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0203.jpg
+2023-10-20 10:50:33,679 - clip - INFO - Image got label car
+2023-10-20 10:50:33,680 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0402.jpg
+2023-10-20 10:50:34,648 - clip - INFO - Image got label person
+2023-10-20 10:50:34,648 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0058.jpg
+2023-10-20 10:50:35,623 - clip - INFO - Image got label cat
+2023-10-20 10:50:35,624 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0292.jpg
+2023-10-20 10:50:36,568 - clip - INFO - Image got label flower
+2023-10-20 10:50:36,568 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0565.jpg
+2023-10-20 10:50:37,571 - clip - INFO - Image got label car
+2023-10-20 10:50:37,571 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0364.jpg
+2023-10-20 10:50:38,805 - clip - INFO - Image got label fruit
+2023-10-20 10:50:38,806 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0863.jpg
+2023-10-20 10:50:40,395 - clip - INFO - Image got label person
+2023-10-20 10:50:40,396 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0297.jpg
+2023-10-20 10:50:41,561 - clip - INFO - Image got label dog
+2023-10-20 10:50:41,562 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0888.jpg
+2023-10-20 10:50:42,885 - clip - INFO - Image got label person
+2023-10-20 10:50:42,888 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0650.jpg
+2023-10-20 10:50:43,958 - clip - INFO - Image got label person
+2023-10-20 10:50:43,958 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0279.jpg
+2023-10-20 10:50:45,008 - clip - INFO - Image got label flower
+2023-10-20 10:50:45,008 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0148.jpg
+2023-10-20 10:50:46,078 - clip - INFO - Image got label airplane
+2023-10-20 10:50:46,079 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0691.jpg
+2023-10-20 10:50:47,317 - clip - INFO - Image got label motorbike
+2023-10-20 10:50:47,318 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0136.jpg
+2023-10-20 10:50:48,478 - clip - INFO - Image got label person
+2023-10-20 10:50:48,479 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0122.jpg
+2023-10-20 10:50:49,544 - clip - INFO - Image got label person
+2023-10-20 10:50:49,544 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0685.jpg
+2023-10-20 10:50:50,460 - clip - INFO - Image got label motorbike
+2023-10-20 10:50:50,461 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0283.jpg
+2023-10-20 10:50:51,423 - clip - INFO - Image got label dog
+2023-10-20 10:50:51,424 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0644.jpg
+2023-10-20 10:50:52,448 - clip - INFO - Image got label person
+2023-10-20 10:50:52,449 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0612.jpg
+2023-10-20 10:50:53,362 - clip - INFO - Image got label airplane
+2023-10-20 10:50:53,363 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0245.jpg
+2023-10-20 10:50:54,376 - clip - INFO - Image got label flower
+2023-10-20 10:50:54,376 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0523.jpg
+2023-10-20 10:50:55,338 - clip - INFO - Image got label flower
+2023-10-20 10:50:55,339 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0174.jpg
+2023-10-20 10:50:56,281 - clip - INFO - Image got label airplane
+2023-10-20 10:50:56,282 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0160.jpg
+2023-10-20 10:50:57,349 - clip - INFO - Image got label airplane
+2023-10-20 10:50:57,350 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0537.jpg
+2023-10-20 10:50:58,320 - clip - INFO - Image got label flower
+2023-10-20 10:50:58,321 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0251.jpg
+2023-10-20 10:50:59,307 - clip - INFO - Image got label flower
+2023-10-20 10:50:59,308 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0678.jpg
+2023-10-20 10:51:00,219 - clip - INFO - Image got label person
+2023-10-20 10:51:00,220 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0606.jpg
+2023-10-20 10:51:01,215 - clip - INFO - Image got label airplane
+2023-10-20 10:51:01,215 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0450.jpg
+2023-10-20 10:51:02,193 - clip - INFO - Image got label motorbike
+2023-10-20 10:51:02,194 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/airplane_0389.jpg
+2023-10-20 10:51:03,146 - clip - INFO - Image got label airplane
+2023-10-20 10:51:03,147 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0272.jpg
+2023-10-20 10:51:04,154 - clip - INFO - Image got label cat
+2023-10-20 10:51:04,155 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0029.jpg
+2023-10-20 10:51:05,093 - clip - INFO - Image got label car
+2023-10-20 10:51:05,093 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0628.jpg
+2023-10-20 10:51:06,112 - clip - INFO - Image got label fruit
+2023-10-20 10:51:06,114 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0056.jpg
+2023-10-20 10:51:07,065 - clip - INFO - Image got label dog
+2023-10-20 10:51:07,066 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0491.jpg
+2023-10-20 10:51:08,022 - clip - INFO - Image got label person
+2023-10-20 10:51:08,023 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0336.jpg
+2023-10-20 10:51:08,970 - clip - INFO - Image got label motorbike
+2023-10-20 10:51:08,971 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0514.jpg
+2023-10-20 10:51:09,939 - clip - INFO - Image got label cat
+2023-10-20 10:51:09,940 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0500.jpg
+2023-10-20 10:51:10,889 - clip - INFO - Image got label cat
+2023-10-20 10:51:10,890 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0322.jpg
+2023-10-20 10:51:11,895 - clip - INFO - Image got label motorbike
+2023-10-20 10:51:11,895 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/dog_0042.jpg
+2023-10-20 10:51:12,838 - clip - INFO - Image got label dog
+2023-10-20 10:51:12,839 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0485.jpg
+2023-10-20 10:51:13,799 - clip - INFO - Image got label person
+2023-10-20 10:51:13,800 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0266.jpg
+2023-10-20 10:51:14,776 - clip - INFO - Image got label cat
+2023-10-20 10:51:14,777 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0444.jpg
+2023-10-20 10:51:15,729 - clip - INFO - Image got label motorbike
+2023-10-20 10:51:15,730 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0614.jpg
+2023-10-20 10:51:16,675 - clip - INFO - Image got label fruit
+2023-10-20 10:51:16,676 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0015.jpg
+2023-10-20 10:51:17,659 - clip - INFO - Image got label car
+2023-10-20 10:51:17,660 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/cat_0528.jpg
+2023-10-20 10:51:18,576 - clip - INFO - Image got label cat
+2023-10-20 10:51:18,576 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0172.jpg
+2023-10-20 10:51:19,558 - clip - INFO - Image got label fruit
+2023-10-20 10:51:19,559 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0773.jpg
+2023-10-20 10:51:20,498 - clip - INFO - Image got label car
+2023-10-20 10:51:20,498 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0084.jpg
+2023-10-20 10:51:21,454 - clip - INFO - Image got label fruit
+2023-10-20 10:51:21,455 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0166.jpg
+2023-10-20 10:51:22,385 - clip - INFO - Image got label fruit
+2023-10-20 10:51:22,385 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0767.jpg
+2023-10-20 10:51:23,375 - clip - INFO - Image got label car
+2023-10-20 10:51:23,377 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/flower_0090.jpg
+2023-10-20 10:51:24,492 - clip - INFO - Image got label flower
+2023-10-20 10:51:24,493 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0478.jpg
+2023-10-20 10:51:25,932 - clip - INFO - Image got label motorbike
+2023-10-20 10:51:25,935 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0600.jpg
+2023-10-20 10:51:27,710 - clip - INFO - Image got label fruit
+2023-10-20 10:51:27,712 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0001.jpg
+2023-10-20 10:51:28,768 - clip - INFO - Image got label car
+2023-10-20 10:51:28,769 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/fruit_0833.jpg
+2023-10-20 10:51:29,848 - clip - INFO - Image got label fruit
+2023-10-20 10:51:29,849 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0334.jpg
+2023-10-20 10:51:30,803 - clip - INFO - Image got label person
+2023-10-20 10:51:30,804 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/motorbike_0493.jpg
+2023-10-20 10:51:31,856 - clip - INFO - Image got label motorbike
+2023-10-20 10:51:31,857 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/person_0452.jpg
+2023-10-20 10:51:32,829 - clip - INFO - Image got label person
+2023-10-20 10:51:32,830 - clip - INFO - Running inference on image /Users/valentinserban/Downloads/archive-3/images/car_0954.jpg

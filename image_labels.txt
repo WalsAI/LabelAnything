@@ -1,1 +1,1 @@
-dog, cat, pig, human
+airplane, car, cat, dog, flower, fruit, motorbike, person
