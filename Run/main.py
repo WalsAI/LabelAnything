@@ -1,5 +1,5 @@
 import hydra
-import omegaconf
+from omegaconf import DictConfig
 import sys
 import os
 
@@ -12,11 +12,11 @@ from utils.utils import configure_logger
 
 
 @hydra.main(version_base=None, config_path="../conf", config_name="config")
-def main(cfg) -> None:
+def main(cfg: DictConfig) -> None:
     """
-        Main function for categorization
-    :param cfg:
-    :return:
+        Main function for running diferent types of labeling (categorization, object detection and segmentation)
+    :param cfg: DictConfig
+    :return: None
     """
     logger = configure_logger(cfg.CLIP.logger_name, cfg.CLIP.file_handler)
 
