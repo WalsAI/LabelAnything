@@ -20,4 +20,5 @@ DINO:
     logger_name: 'DINO'
     box_threshold: '0.35'
     text_threshold: '0.35'
+    file_handler: 'DINO.log'
  
