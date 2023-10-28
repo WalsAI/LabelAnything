@@ -8,3 +8,17 @@ CLIP:
     logger_name: 'clip'
     file_handler: '/Users/valentinserban/LabelAnything/logs/clip.log'
     output_folder: '/Users/valentinserban/Downloads/archive-3/labels'
+
+DINO:
+    path_to_folder: 'photos'
+    csv_column: 'Image_path'
+    model_config_path: '/root/GroundingDino/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py'
+    model_checkpoint_path: '/root/GroundingDino/GroundingDINO/weights/groundingdino_swint_ogc.pth'
+    label_file: 'labels.txt'
+    csv_name: 'images.csv'
+    image_column: 'Image_path'
+    logger_name: 'DINO'
+    box_threshold: '0.35'
+    text_threshold: '0.35'
+    file_handler: 'DINO.log'
+ 
