@@ -20,7 +20,7 @@ class DinoInference:
         self.__label_file = label_file
         self.__csv_file = csv_file
         self.__image_column = image_column
-        self.__logger_name = logger
+        self.__logger = logger
         self.__model = None
         self.__prompt = None
         self.__csv_preprocessor = CsvPreprocessor(self.__csv_file, image_column)
@@ -35,11 +35,10 @@ class DinoInference:
     def load_labels(self):
         self.__txt_labels = utils.get_labels(self.__label_file)
 
-        print(self.__txt_labels)
         self.__prompt = '. '.join(self.__txt_labels)
         self.__prompt += '.'
 
-        print(self.__prompt)
+
     
     def run_inference(self, image_path, BOX_THRESHOLD, TEXT_THRESHOLD):
 
@@ -79,7 +78,6 @@ class DinoInference:
         self.__df.to_csv('b.csv', index=False)
 
     def __call__(self, BOX_THRESHOLD, TEXT_THRESHOLD):
-        self.__logger = utils.configure_logger(self.__logger_name, str(self.__logger_name) + '.log')
         self.load_model()
         self.run(BOX_THRESHOLD=BOX_THRESHOLD, TEXT_THRESHOLD=TEXT_THRESHOLD)
 
