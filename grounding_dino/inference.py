@@ -60,7 +60,7 @@ class DinoInference:
         Args:
             image_path (str): path to the image
             BOX_THRESHOLD (float): box_threshold meaning what precentage of the confidence is minimum on the inference
-            TEXT_THRESHOLD (_type_): text_threshold meaning what precentage of the confidence need to be at least in the inference
+            TEXT_THRESHOLD (float): text_threshold meaning what precentage of the confidence need to be at least in the inference
         """
 
         image_source, image = load_image(image_path=image_path)
@@ -104,7 +104,7 @@ class DinoInference:
         """Make the class callable amd by that we call the whole process of running the inferences.
         Args:
             BOX_THRESHOLD (float): box_threshold meaning what precentage of the confidence is minimum on the inference
-            TEXT_THRESHOLD (_type_): text_threshold meaning what precentage of the confidence need to be at least in the inference
+            TEXT_THRESHOLD (float): text_threshold meaning what precentage of the confidence need to be at least in the inference
         """
         self.load_model()
         self.run(BOX_THRESHOLD=BOX_THRESHOLD, TEXT_THRESHOLD=TEXT_THRESHOLD)
