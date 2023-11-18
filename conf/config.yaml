@@ -21,4 +21,7 @@ DINO:
     box_threshold: '0.35'
     text_threshold: '0.35'
     file_handler: 'DINO.log'
+
+SEGMENT_ANYTHING:
+    path_to_folder: 'photos'
  
