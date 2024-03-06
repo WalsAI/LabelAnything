@@ -12,6 +12,7 @@ sys.path.append('..')
 from Preprocessors.CsvPreprocessor import CsvPreprocessor
 from Preprocessors.FolderTransformer import FolderTransformer
 from utils import utils
+from torchvision.ops import box_convert
 
 class DinoInference:
     def __init__(self, model_config_path: str, model_checkpoint_path: str, label_file:str , csv_file:str, image_column: str, logger: str):
@@ -92,7 +93,11 @@ class DinoInference:
 
             list_images.append(image)
             list_phrases.append(str(self.__phrases))
-            list_boxes.append(str(self.__boxes.cpu().detach().numpy()))
+
+            boxes_converted = self.__boxes.cpu().detach()
+            boxes_converted = box_convert(boxes_converted, 'cxcywh', 'xyxy')
+
+            list_boxes.append(boxes_converted.numpy())
 
         self.__df.insert(0, "Image_path", list_images, True)
         self.__df.insert(1, "Labels", list_phrases, True)

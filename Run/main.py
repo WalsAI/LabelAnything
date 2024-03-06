@@ -8,7 +8,7 @@ sys.path.append('..')
 
 from Preprocessors.Preprocess import Preprocess
 from Preprocessors.FolderTransformer import FolderTransformer
-from CLIP.Inference import Inference
+#from CLIP.Inference import Inference
 from grounding_dino.inference import DinoInference
 from utils.utils import configure_logger
 
@@ -20,14 +20,14 @@ def main(cfg: DictConfig) -> None:
     :param cfg: DictConfig
     :return: None
     """
-    logger = configure_logger(cfg.CLIP.logger_name, cfg.CLIP.file_handler)
+   # logger = configure_logger(cfg.CLIP.logger_name, cfg.CLIP.file_handler)
 
-    preprocessor = Preprocess(cfg.CLIP.path_to_folder, cfg.CLIP.csv_column, cfg.CLIP.csv_name, logger)
-    preprocessor()
+   # preprocessor = Preprocess(cfg.CLIP.path_to_folder, cfg.CLIP.csv_column, cfg.CLIP.csv_name, logger)
+   # preprocessor()
 
 
-    inferencer = Inference(cfg.CLIP.output_folder, cfg.CLIP.model_type, cfg.CLIP.labels, cfg.CLIP.csv_name, cfg.CLIP.csv_column, cfg.CLIP.device, logger)
-    inferencer()
+   # inferencer = Inference(cfg.CLIP.output_folder, cfg.CLIP.model_type, cfg.CLIP.labels, cfg.CLIP.csv_name, cfg.CLIP.csv_column, cfg.CLIP.device, logger)
+ #   inferencer()
 
     grounding_dino_logger = configure_logger(cfg.DINO.logger_name, cfg.DINO.file_handler)
 
