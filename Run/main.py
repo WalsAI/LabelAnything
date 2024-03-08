@@ -2,6 +2,9 @@ import hydra
 from omegaconf import DictConfig
 import sys
 import os
+from hydra import initialize, compose
+from omegaconf import OmegaConf
+
 
 sys.path.append(os.getcwd())
 sys.path.append('..')
@@ -13,29 +16,37 @@ from grounding_dino.inference import DinoInference
 from utils.utils import configure_logger
 
 
-@hydra.main(version_base=None, config_path="../conf", config_name="config")
-def main(cfg: DictConfig) -> None:
+def main() -> None:
     """
         Main function for running diferent types of labeling (categorization, object detection and segmentation)
     :param cfg: DictConfig
     :return: None
     """
-   # logger = configure_logger(cfg.CLIP.logger_name, cfg.CLIP.file_handler)
 
-   # preprocessor = Preprocess(cfg.CLIP.path_to_folder, cfg.CLIP.csv_column, cfg.CLIP.csv_name, logger)
-   # preprocessor()
+    with initialize(version_base=None, config_path="../conf"):
+        cfg_model = compose(config_name="config")
+        cfg = compose(config_name="config_hydra")
 
+    model = cfg.ConfHydra
+    if model == "Classification":
+        model = cfg_model.CLIP
 
-   # inferencer = Inference(cfg.CLIP.output_folder, cfg.CLIP.model_type, cfg.CLIP.labels, cfg.CLIP.csv_name, cfg.CLIP.csv_column, cfg.CLIP.device, logger)
- #   inferencer()
+        logger = configure_logger(model.logger_name, model.file_handler)
 
-    grounding_dino_logger = configure_logger(cfg.DINO.logger_name, cfg.DINO.file_handler)
+        preprocessor = Preprocess(model.path_to_folder, model.csv_column, model.csv_name, logger)
+        preprocessor()
 
-    preprocess_dino = FolderTransformer(cfg.DINO.path_to_folder, cfg.DINO.csv_column, cfg.DINO.csv_name)
-    preprocess_dino()
+        inferencer = Inference(model.output_folder, model.model_type, model.labels, model.csv_name, model.csv_column, model.device, logger)
+        inferencer()
+    elif model == "Detection":
+        model = cfg_model.DINO
+        grounding_dino_logger = configure_logger(model.logger_name, model.file_handler)
 
-    inferencer_dino = DinoInference(cfg.DINO.model_config_path, cfg.DINO.model_checkpoint_path, cfg.DINO.label_file, cfg.DINO.csv_name, cfg.DINO.csv_column, grounding_dino_logger)
-    inferencer_dino(float(cfg.DINO.box_threshold), float(cfg.DINO.text_threshold))
+        preprocess_dino = FolderTransformer(model.path_to_folder, model.csv_column, model.csv_name)
+        preprocess_dino()
+
+        inferencer_dino = DinoInference(model.model_config_path, model.model_checkpoint_path, model.label_file, model.csv_name, model.csv_column, grounding_dino_logger)
+        inferencer_dino(float(model.box_threshold), float(model.text_threshold))
      
     
 

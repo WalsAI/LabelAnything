@@ -1,0 +1,5 @@
+2023-11-19 13:58:27,254 - DINO - INFO - Reading image labels....
+2023-11-19 13:58:27,256 - DINO - INFO - Running inference on image /root/LabelAnythingWeights/images/imageshown.png
+2023-11-19 13:58:28,900 - DINO - INFO - Image got boxes ['pothole']
+2023-11-19 13:58:28,901 - DINO - INFO - Running inference on image /root/LabelAnythingWeights/images/pothole.jpeg
+2023-11-19 13:58:29,325 - DINO - INFO - Image got boxes ['pothole']

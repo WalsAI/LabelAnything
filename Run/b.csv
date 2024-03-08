@@ -1,0 +1,3 @@
+Image_path,Labels,Boxes
+/root/LabelAnythingWeights/images/imageshown.png,['pothole'],[[0.3235892  0.49694207 0.6070037  0.66044044]]
+/root/LabelAnythingWeights/images/pothole.jpeg,['pothole'],[[0.2541412  0.48091856 0.62270236 0.77880335]]

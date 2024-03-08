@@ -105,7 +105,7 @@ class DinoInference:
 
         self.__df.to_csv('b.csv', index=False)
 
-    def __call__(self, BOX_THRESHOLD: float, TEXT_THRESHOLD: float):
+    def __call__(self, BOX_THRESHOLD: float = None, TEXT_THRESHOLD: float = None):
         """Make the class callable amd by that we call the whole process of running the inferences.
         Args:
             BOX_THRESHOLD (float): box_threshold meaning what precentage of the confidence is minimum on the inference

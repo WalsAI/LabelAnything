@@ -1,0 +1,2 @@
+ConfHydra:
+  Detection  # Choose between (Classification - CLIP , Segmentation - Segment Anything, Detection - Grounding Dino)
